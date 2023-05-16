@@ -1,10 +1,14 @@
-import logo from "./logo.svg";
+import { Outlet } from "react-router-dom";
+
+import Header from "./components/Header/Header";
+
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">REACT-CLONE-YOUTUBE</header>
+      <Header />
+      <Outlet />
     </div>
   );
 }
