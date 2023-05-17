@@ -1,9 +1,26 @@
-import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import {
+  matchPath,
+  useLocation,
+  useNavigate,
+  useParams,
+} from "react-router-dom";
 
 function Header() {
   const navigate = useNavigate();
+  const { pathname } = useLocation();
+  const { keyword } = useParams();
+
   const [searchKeyword, setSearchKeyword] = useState("");
+
+  useEffect(() => {
+    if (matchPath("/videos/:keyword", pathname)) {
+      setSearchKeyword(keyword);
+      return;
+    }
+
+    setSearchKeyword("");
+  }, [pathname, keyword]);
 
   const handleChange = (e) => {
     setSearchKeyword(e.target.value);
