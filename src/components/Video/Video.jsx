@@ -1,4 +1,5 @@
 import React from "react";
+import { diffDate } from "../../utils/date";
 
 function Video({
   url,
@@ -19,7 +20,7 @@ function Video({
         <span className="line-clamp-2 text-white">{title}</span>
       </div>
       <span className="text-zinc-400">{channelTitle}</span>
-      <span className="text-zinc-400">{publishedAt}</span>
+      <span className="text-zinc-400">{diffDate(publishedAt)}</span>
     </li>
   );
 }
