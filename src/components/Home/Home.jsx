@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 import useFetchVideos from "../../hooks/use-fetch-videos";
 
-import Video from "../Video/Video";
+import Videos from "../Videos/Videos";
 
 function Home() {
   const navigate = useNavigate();
@@ -18,33 +18,10 @@ function Home() {
     <div className="bg-black">
       {!mostPopularVideos.length && "EMPTY"}
       {mostPopularVideos.length && (
-        <ul className="grid grid-cols-4 gap-4">
-          {mostPopularVideos.map(
-            ({
-              id,
-              snippet: {
-                thumbnails: {
-                  high: { url },
-                },
-                title,
-                publishedAt,
-                channelId,
-                channelTitle,
-              },
-            }) => (
-              <li key={id}>
-                <Video
-                  url={url}
-                  title={title}
-                  channelTitle={channelTitle}
-                  publishedAt={publishedAt}
-                  channelId={channelId}
-                  handleClickVideo={handleClickVideo}
-                />
-              </li>
-            )
-          )}
-        </ul>
+        <Videos
+          videos={mostPopularVideos}
+          handleClickVideo={handleClickVideo}
+        />
       )}
     </div>
   );
