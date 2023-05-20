@@ -1,0 +1,1708 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jBPn4eryK6AMPd43HToPEnhxuFg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "lDp-AvXRWTkw5vLZaWKxJ9yI5iA",
+      "id": "5I_elKORA5w",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:00:09Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "지금 코드 꽂는 거야?",
+        "description": "#코믹숏무비 #nerdult #카공족자경단\n카페에서 노트북만 펼쳐도 카공족으로 의심을 받게되는 현재, 카공족 자경단에게 의심을 받지 않기 위한 주인공의 고군분투\n\n자경단장 역 / 임소윤\n인스타그램\nhttps://www.instagram.com/cowyun97\n\n자경단원 역 / 신민주\n인스타그램\nhttps://www.instagram.com/godminjoo\n\n유력 용의자 역 / 유권\n인스타그램\nhttps://www.instagram.com/uk_0530\n\n용의자1 역 / 전상협\n인스타그램\nhttps://www.instagram.com/j_negotiation\n\n용의자2 역 / 임재형\n인스타그램\nhttps://www.instagram.com/jaehyung_log\n\n사장 역 / 유현규\n인스타그램\nhttps://www.instagram.com/gyuis_\n\n너덜트 공식 인스타그램\nhttps://www.instagram.com/nerd_ult",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5I_elKORA5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5I_elKORA5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5I_elKORA5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5I_elKORA5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5I_elKORA5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "너덜트",
+        "tags": [
+          "유현규",
+          "전상협",
+          "임재형",
+          "스케치코미디",
+          "숏박스",
+          "콩트",
+          "nerdult",
+          "shortbox",
+          "skit",
+          "short movie",
+          "comic movie",
+          "comedy video",
+          "conte",
+          "블락비",
+          "유권",
+          "임소윤",
+          "신민주",
+          "카공족",
+          "카공",
+          "카페",
+          "스터디카페",
+          "노트북카페",
+          "자영업자",
+          "노카공족",
+          "스타벅스",
+          "할리스",
+          "투썸",
+          "애플",
+          "스타벅스 입장권",
+          "취준생",
+          "카피스족",
+          "자경단",
+          "암묵적 약속",
+          "맥북",
+          "아이패드",
+          "콘센트",
+          "진상",
+          "블랙컨슈머",
+          "카공족 퇴치",
+          "에티켓",
+          "멀티탭",
+          "빌런",
+          "카페빌런",
+          "전기도둑",
+          "카페 전동킥보드 충전",
+          "카페 전기차 충전",
+          "무개념",
+          "민폐",
+          "와이파이 도둑",
+          "테더링",
+          "스무디",
+          "디저트",
+          "카페 케이크",
+          "cafe",
+          "coffee",
+          "starbucks",
+          "hollys",
+          "twosome",
+          "카공족 풍자"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "지금 코드 꽂는 거야?",
+          "description": "#코믹숏무비 #nerdult #카공족자경단\n카페에서 노트북만 펼쳐도 카공족으로 의심을 받게되는 현재, 카공족 자경단에게 의심을 받지 않기 위한 주인공의 고군분투\n\n자경단장 역 / 임소윤\n인스타그램\nhttps://www.instagram.com/cowyun97\n\n자경단원 역 / 신민주\n인스타그램\nhttps://www.instagram.com/godminjoo\n\n유력 용의자 역 / 유권\n인스타그램\nhttps://www.instagram.com/uk_0530\n\n용의자1 역 / 전상협\n인스타그램\nhttps://www.instagram.com/j_negotiation\n\n용의자2 역 / 임재형\n인스타그램\nhttps://www.instagram.com/jaehyung_log\n\n사장 역 / 유현규\n인스타그램\nhttps://www.instagram.com/gyuis_\n\n너덜트 공식 인스타그램\nhttps://www.instagram.com/nerd_ult"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1065766",
+        "likeCount": "21843",
+        "favoriteCount": "0",
+        "commentCount": "1787"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KOOQ4JB2B4-CayJlITbg_GWFBtY",
+      "id": "P-4Q4YzsX30",
+      "snippet": {
+        "publishedAt": "2023-05-19T08:00:20Z",
+        "channelId": "UCHw9p667e9l0qoYfY8calaA",
+        "title": "2023 유병재의 웃으면 안되는 생일파티 2부",
+        "description": "#생일파티 #유병재 #유규선 #뭉순임당",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-4Q4YzsX30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-4Q4YzsX30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-4Q4YzsX30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P-4Q4YzsX30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P-4Q4YzsX30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유병재",
+        "tags": [
+          "코미디",
+          "개그",
+          "라이브코미디",
+          "comedy",
+          "korea comedy",
+          "유병재",
+          "유규선",
+          "웃으면안되는생일파티",
+          "생일파티",
+          "생파",
+          "유병재생파",
+          "유병재생일",
+          "유병재생일파티",
+          "김종민",
+          "뭉순임당"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2023 유병재의 웃으면 안되는 생일파티 2부",
+          "description": "#생일파티 #유병재 #유규선 #뭉순임당"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "501104",
+        "likeCount": "9141",
+        "favoriteCount": "0",
+        "commentCount": "703"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qwv37eygG-bHJ7eS7_Le1KjIKJM",
+      "id": "59Eo60kIVGA",
+      "snippet": {
+        "publishedAt": "2023-05-18T13:47:19Z",
+        "channelId": "UCskIKQGpjI5sG2ZLtWLYSmw",
+        "title": "[클린버전] 김호중 - 인생💰미스터 로또 2회💰 TV CHOSUN 230518 방송",
+        "description": "매주 목요일 밤 10시 TV CHOSUN '미스터로또' 본방 사수!\n오직 [미스터로또] 공식 계정에서만 볼 수 있는 자막 없는 클린버전\n구독과 좋아요는 사랑입니다…♥️\n\n#미스터로또 \n#트로트 \n#안성훈 #박지현 #진해성 #나상도 #최수호 #진욱 #박성온 \n#박서진 #김용필 #재하\n#송가인 #김호중 #나태주 #영기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59Eo60kIVGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59Eo60kIVGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59Eo60kIVGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/59Eo60kIVGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/59Eo60kIVGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미스&미스터트롯",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[클린버전] 김호중 - 인생💰미스터 로또 2회💰 TV CHOSUN 230518 방송",
+          "description": "매주 목요일 밤 10시 TV CHOSUN '미스터로또' 본방 사수!\n오직 [미스터로또] 공식 계정에서만 볼 수 있는 자막 없는 클린버전\n구독과 좋아요는 사랑입니다…♥️\n\n#미스터로또 \n#트로트 \n#안성훈 #박지현 #진해성 #나상도 #최수호 #진욱 #박성온 \n#박서진 #김용필 #재하\n#송가인 #김호중 #나태주 #영기"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "250119",
+        "likeCount": "13551",
+        "favoriteCount": "0",
+        "commentCount": "2867"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_IHwczHcfyTL_TvFi0ddo8x1iu0",
+      "id": "ho0d4rf1LwY",
+      "snippet": {
+        "publishedAt": "2023-05-17T09:00:29Z",
+        "channelId": "UCk-JTg4sjiascKX6ZM2-DEA",
+        "title": "DANIELLE - 저곳으로 (인어공주) (인어공주 OST)",
+        "description": "내 안의 목소리를 따라 자유롭게 꿈꾸고 사랑할 거야! 아틀란티카 바다의 왕 ‘트라이튼’의 사랑스러운 막내딸인 인어 ‘에리얼’은 늘 인간들이 사는 바다 너머 세상으로의 모험을 꿈꾼다. 어느 날, 우연히 바다 위로 올라갔다가 폭풍우 속 가라앉는 배에 탄 인간 ‘에릭 왕자’의 목숨을 구해준다. 갈망하던 꿈과 운명적인 사랑을 이루기 위해 용기를 낸 ‘에리얼’은 사악한 바다 마녀 ‘울슐라’와의 위험한 거래를 통해 다리를 얻게 된다. 드디어 바다를 벗어나 그토록 원하던 인간 세상으로 가게 되지만, 그 선택으로 ‘에리얼’과 아틀란티카 왕국 모두 위험에 처하게 되는데…\n\n바닷속, 그리고 그 너머\n아름다운 꿈과 사랑의 멜로디가 펼쳐진다!\n\n디즈니의 인어공주를 5월 24일 극장에서 만나보세요!\n \nMelon: https://www.melon.com/album/detail.htm?albumId=11245115\nGenie: https://www.genie.co.kr/detail/albumInfo?axnm=83831982\nApple” https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623\nFLO: https://www.music-flo.com/detail/album/413872454/albumtrack\nVIBE: https://vibe.naver.com/track/64559178\nSpotify: https://open.spotify.com/album/29U7Nu19hGHuNYDSBuhNgN?si=QlwL_pBhTYa-dxvxpdwgLw\nBugs: https://music.bugs.co.kr/album/31695952?wl_ref=list_ab_01_ar\n\nDisneyMusicKoreaVEVO 를 구독해 주세요 🔔 https://www.youtube.com/@DisneyMusicKoreaVEVO?sub_confirmation=1\n\nFollow Disney Music:\nInstagram: https://instagram.com/disneymusic\nTwitter: https://twitter.com/disneymusic\nTikTok: https://www.tiktok.com/@disneymusic\nFacebook: https://facebook.com/disneymusic\n\nMusic video by Danielle performing 저곳으로 (인어공주) (인어공주 OST). © 2023 Walt Disney Records\n\nhttp://vevo.ly/8i5n2z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ho0d4rf1LwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ho0d4rf1LwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ho0d4rf1LwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ho0d4rf1LwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ho0d4rf1LwY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DisneyMusicKoreaVEVO",
+        "tags": [
+          "Danielle",
+          "저곳으로",
+          "(인어공주)",
+          "Walt",
+          "Disney",
+          "Records",
+          "Soundtrack",
+          "(인어공주 OST)",
+          "part of your world korean",
+          "part of your world",
+          "danielle part of your world",
+          "danielle part of your world korean",
+          "danielle part of your world korea",
+          "danielle part of your world 인어공주",
+          "danielle 인어공주",
+          "danielle the little mermaid",
+          "the little mermaid 인어공주",
+          "the little mermaid part of your world korean",
+          "danielle part of your world kpop",
+          "danielle newjeans part of your world"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DANIELLE - 저곳으로 (인어공주) (인어공주 OST)",
+          "description": "내 안의 목소리를 따라 자유롭게 꿈꾸고 사랑할 거야! 아틀란티카 바다의 왕 ‘트라이튼’의 사랑스러운 막내딸인 인어 ‘에리얼’은 늘 인간들이 사는 바다 너머 세상으로의 모험을 꿈꾼다. 어느 날, 우연히 바다 위로 올라갔다가 폭풍우 속 가라앉는 배에 탄 인간 ‘에릭 왕자’의 목숨을 구해준다. 갈망하던 꿈과 운명적인 사랑을 이루기 위해 용기를 낸 ‘에리얼’은 사악한 바다 마녀 ‘울슐라’와의 위험한 거래를 통해 다리를 얻게 된다. 드디어 바다를 벗어나 그토록 원하던 인간 세상으로 가게 되지만, 그 선택으로 ‘에리얼’과 아틀란티카 왕국 모두 위험에 처하게 되는데…\n\n바닷속, 그리고 그 너머\n아름다운 꿈과 사랑의 멜로디가 펼쳐진다!\n\n디즈니의 인어공주를 5월 24일 극장에서 만나보세요!\n \nMelon: https://www.melon.com/album/detail.htm?albumId=11245115\nGenie: https://www.genie.co.kr/detail/albumInfo?axnm=83831982\nApple” https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623\nFLO: https://www.music-flo.com/detail/album/413872454/albumtrack\nVIBE: https://vibe.naver.com/track/64559178\nSpotify: https://open.spotify.com/album/29U7Nu19hGHuNYDSBuhNgN?si=QlwL_pBhTYa-dxvxpdwgLw\nBugs: https://music.bugs.co.kr/album/31695952?wl_ref=list_ab_01_ar\n\nDisneyMusicKoreaVEVO 를 구독해 주세요 🔔 https://www.youtube.com/@DisneyMusicKoreaVEVO?sub_confirmation=1\n\nFollow Disney Music:\nInstagram: https://instagram.com/disneymusic\nTwitter: https://twitter.com/disneymusic\nTikTok: https://www.tiktok.com/@disneymusic\nFacebook: https://facebook.com/disneymusic\n\nMusic video by Danielle performing 저곳으로 (인어공주) (인어공주 OST). © 2023 Walt Disney Records\n\nhttp://vevo.ly/8i5n2z"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "IO", "KP", "RU", "SS"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5121873",
+        "likeCount": "345220",
+        "favoriteCount": "0",
+        "commentCount": "19568"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JpMYUMCzVYUDawH-bGJVGFb7l8w",
+      "id": "pMNQ-M5ENEU",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:15:02Z",
+        "channelId": "UCkxbPwdaV74Erdxt97Nt23w",
+        "title": "홍진경 웃겼다 울리는 김미경의 초대박 인생 특강(취중진담)",
+        "description": "안녕하세요 제작진입니다!\n[사람공부] 시리즈의 세 번째 주인공\n김미경 원장님을 소개합니다\n\n충청도 증평 시골에서\n연세대 음대를 졸업하고\n피아노 과외선생님부터\n대한민국 최고의 스타강사가 되기까지..\n그녀의 파란만장한 인생 속에서\n저희는 어떤 걸 배워볼수 있을까요?\n\n오늘은 특별히 원장님 단골 맛집에서 \n이모카세를 즐기며 인생 강의를 들었습니다.\n40대 홍진경을 위한 진심 어린 조언은\n무엇이었을까요?\n\n만재님들의 소감을 댓글로 알려주세요\n감사합니다\n\n#홍진경 #김미경 #공부왕찐천재",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMNQ-M5ENEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMNQ-M5ENEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMNQ-M5ENEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pMNQ-M5ENEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pMNQ-M5ENEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "공부왕찐천재 홍진경",
+        "tags": [
+          "홍진경",
+          "홍진경채널",
+          "홍진경 유튜브",
+          "공부왕찐천재 홍진경",
+          "공부왕찐천재",
+          "김미경",
+          "홍진경 김미경",
+          "김미경강사",
+          "김미경원장",
+          "홍진경 사람공부",
+          "홍진경 브이로그",
+          "홍진경김미경",
+          "김미경의마흔수업",
+          "마흔수업",
+          "김미경의리부트",
+          "산낙지",
+          "멸치회",
+          "제철멸치",
+          "제철음식",
+          "홍대맛집",
+          "이모카세",
+          "홍대이모카세",
+          "서교동맛집",
+          "연남동맛집",
+          "맛집",
+          "언니의독설",
+          "김미경TV",
+          "김미경강의",
+          "명강의",
+          "성공강의",
+          "성공사례",
+          "코로나성공사례",
+          "성공신화",
+          "엄마의힘",
+          "어머니의힘",
+          "딸바보",
+          "좋은부모",
+          "양육법",
+          "자존감",
+          "자존감높이는법",
+          "자존감수업",
+          "김미경작가",
+          "작가되는법",
+          "성공하는법",
+          "우울증치료",
+          "긍정의힘",
+          "세바시",
+          "행복하게사는법",
+          "행복한삶",
+          "홍대저녁",
+          "홍대회식",
+          "숨은맛집",
+          "미슐랭",
+          "스타강사",
+          "스타의삶",
+          "연세대학교",
+          "연세대음대",
+          "연세대학교 음악대학",
+          "연세대학교 작곡가",
+          "작곡가",
+          "홍대불금",
+          "불금",
+          "충청북도",
+          "증평의딸",
+          "사업성공사례",
+          "사업성공하는법",
+          "미라클모닝",
+          "새벽기상",
+          "ENTP",
+          "메타버스",
+          "NFT",
+          "주식",
+          "코인",
+          "블록체인",
+          "콘텐츠사업",
+          "컨텐츠사업",
+          "콘텐츠강의",
+          "콘텐츠만들기",
+          "대박꿀팁",
+          "꿀팁",
+          "대박인생강의",
+          "대박강의",
+          "명언",
+          "부모님",
+          "30대",
+          "40대"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "홍진경 웃겼다 울리는 김미경의 초대박 인생 특강(취중진담)",
+          "description": "안녕하세요 제작진입니다!\n[사람공부] 시리즈의 세 번째 주인공\n김미경 원장님을 소개합니다\n\n충청도 증평 시골에서\n연세대 음대를 졸업하고\n피아노 과외선생님부터\n대한민국 최고의 스타강사가 되기까지..\n그녀의 파란만장한 인생 속에서\n저희는 어떤 걸 배워볼수 있을까요?\n\n오늘은 특별히 원장님 단골 맛집에서 \n이모카세를 즐기며 인생 강의를 들었습니다.\n40대 홍진경을 위한 진심 어린 조언은\n무엇이었을까요?\n\n만재님들의 소감을 댓글로 알려주세요\n감사합니다\n\n#홍진경 #김미경 #공부왕찐천재"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "219168",
+        "likeCount": "6579",
+        "favoriteCount": "0",
+        "commentCount": "317"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QOTiKDBdB78hxSJJDYLNvH7OaXI",
+      "id": "oUKmTQS2-2Q",
+      "snippet": {
+        "publishedAt": "2023-05-18T09:59:50Z",
+        "channelId": "UCk6bX-MZXdte_7kG8TbMkqg",
+        "title": "다이아몬드는 절대 안깨진다길래 800만원짜리 다이아몬드를 사서 부숴보았습니다!",
+        "description": "제발 부숴지면 안된다!!! 과연 결과는?!\n\n#허팝 #다이아몬드 #보석 #금 #은 #금은방 #백금  #신혼 #결혼반지 #반지 #다이아 아\n#heopop #diamond #dia #gold #silver #ring \n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oUKmTQS2-2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oUKmTQS2-2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oUKmTQS2-2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oUKmTQS2-2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oUKmTQS2-2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "허팝Heopop",
+        "tags": ["허팝", "heopop", "gjvkq"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "다이아몬드는 절대 안깨진다길래 800만원짜리 다이아몬드를 사서 부숴보았습니다!",
+          "description": "제발 부숴지면 안된다!!! 과연 결과는?!\n\n#허팝 #다이아몬드 #보석 #금 #은 #금은방 #백금  #신혼 #결혼반지 #반지 #다이아 아\n#heopop #diamond #dia #gold #silver #ring \n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "532938",
+        "likeCount": "10053",
+        "favoriteCount": "0",
+        "commentCount": "1208"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hl8LeUIWdUYFIdMFHp41nh_Dkoc",
+      "id": "2fxg1GdkhxQ",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:00:03Z",
+        "channelId": "UCwx6n_4OcLgzAGdty0RWCoA",
+        "title": "🚨최초🚨 돈을 못 받았습니다... 일을 했는데 왜 돈을 안 줘?😭 | 웨딩플래너 | 워크맨2",
+        "description": "JOB것덜~♥ 인력소장이다,,~\n\n부부의 날을 맞이하야,,,\n성규가 웨딩플래너 알바를 하고 왔다,,,\n\n결혼을 1년 전 부터 준비해도,,,\n예약이 꽉 차있을 줄,,,, 몰랐다니께,,,\n\n결혼한 잡것들은 알겠지만,,, 할라고 하면,,,\n스튜디오,, 드레스,, 메이크업? 이런거 부터,, \n준비할 게 어마어마하게 산더미지만,,,,\n\n성규 웨딩플래너,,,, 우리 뀨플과 함께라면,,\n행복하게 결혼을 준비 할 수 있을거여,,ㅎㅎ \n\n참고로,, 소장이 결혼 했는지 안 했는지는,,\n안 알려줄거여,,^,,^ ㅎㅎ 시크릿,,,,ㅎ\n\n세상의 모든 job것들을 리뷰한다 [워크맨]\n\n▶ 매주 금 오후 6시 공개\n*일반인 출연자에 대한 지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다.\n\n#워크맨2 #장성규 #workman\n#극한직업 #직업체험 #알바 #극한알바 \n#웨딩플래너 #웨딩드레스 #웨딩\n#스드메 #결혼 #부부",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fxg1GdkhxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fxg1GdkhxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fxg1GdkhxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2fxg1GdkhxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2fxg1GdkhxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "워크맨-Workman",
+        "tags": [
+          "워크맨",
+          "워크맨2",
+          "스튜디오룰루랄라",
+          "카페알바",
+          "장성규",
+          "후기",
+          "wassupman",
+          "직업리뷰",
+          "아르바이트",
+          "알바",
+          "알바 브이로그",
+          "알바 면접",
+          "장성규 알바",
+          "job",
+          "알바 꿀팁",
+          "알바생",
+          "웨딩플래너",
+          "웨딩샵",
+          "웨딩",
+          "결혼",
+          "부부",
+          "결혼식",
+          "웨딩 플래너",
+          "웨딩 플래너 추천",
+          "추천",
+          "알바 추천",
+          "스드메",
+          "스튜디오",
+          "웨딩 스튜디오",
+          "웨딩 드레스",
+          "웨딩 메이크업",
+          "메이크업",
+          "결혼 메이크업",
+          "ㄱ려혼",
+          "ㄱ려혼식",
+          "스즈메",
+          "스즈메의 문단속",
+          "입단속",
+          "결혼은"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "🚨최초🚨 돈을 못 받았습니다... 일을 했는데 왜 돈을 안 줘?😭 | 웨딩플래너 | 워크맨2",
+          "description": "JOB것덜~♥ 인력소장이다,,~\n\n부부의 날을 맞이하야,,,\n성규가 웨딩플래너 알바를 하고 왔다,,,\n\n결혼을 1년 전 부터 준비해도,,,\n예약이 꽉 차있을 줄,,,, 몰랐다니께,,,\n\n결혼한 잡것들은 알겠지만,,, 할라고 하면,,,\n스튜디오,, 드레스,, 메이크업? 이런거 부터,, \n준비할 게 어마어마하게 산더미지만,,,,\n\n성규 웨딩플래너,,,, 우리 뀨플과 함께라면,,\n행복하게 결혼을 준비 할 수 있을거여,,ㅎㅎ \n\n참고로,, 소장이 결혼 했는지 안 했는지는,,\n안 알려줄거여,,^,,^ ㅎㅎ 시크릿,,,,ㅎ\n\n세상의 모든 job것들을 리뷰한다 [워크맨]\n\n▶ 매주 금 오후 6시 공개\n*일반인 출연자에 대한 지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다.\n\n#워크맨2 #장성규 #workman\n#극한직업 #직업체험 #알바 #극한알바 \n#웨딩플래너 #웨딩드레스 #웨딩\n#스드메 #결혼 #부부"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "494538",
+        "likeCount": "8003",
+        "favoriteCount": "0",
+        "commentCount": "369"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UxlzYDerOpQRX48yXFBlopKf49M",
+      "id": "mykEputnTHc",
+      "snippet": {
+        "publishedAt": "2023-05-18T09:10:00Z",
+        "channelId": "UCoe-0EVDJnjlSoPK8ygcGwQ",
+        "title": "SM 트레이너 아니라니까.. (Feat. 에스파)",
+        "description": "오늘은 특별한 설명이 필요 없는 대세 아이돌 에스파 후배들이 함께 했습니다!\n\n사실 소통의 문제가 있으면 어쩌나 걱정을 했는대 의외로 굉장히 밝고 재밌고 성격이 너무 좋아서 너무 즐겁게 촬영 했습니다~ 저는 그랬어요.. \n\n매력 넘치는 에스파 후배들 많이 아껴주시고 응원 해 주세요!\n즐거운 하루 보내세요! \n\n#김종국 #짐종국 #에스파",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mykEputnTHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mykEputnTHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mykEputnTHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mykEputnTHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mykEputnTHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김종국 GYM JONG KOOK",
+        "tags": [
+          "김종국",
+          "짐종국",
+          "런닝맨",
+          "미우새",
+          "헬스",
+          "운동",
+          "유재석",
+          "하하",
+          "이광수",
+          "송지효",
+          "스포츠",
+          "김동현",
+          "UFC"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "SM 트레이너 아니라니까.. (Feat. 에스파)",
+          "description": "오늘은 특별한 설명이 필요 없는 대세 아이돌 에스파 후배들이 함께 했습니다!\n\n사실 소통의 문제가 있으면 어쩌나 걱정을 했는대 의외로 굉장히 밝고 재밌고 성격이 너무 좋아서 너무 즐겁게 촬영 했습니다~ 저는 그랬어요.. \n\n매력 넘치는 에스파 후배들 많이 아껴주시고 응원 해 주세요!\n즐거운 하루 보내세요! \n\n#김종국 #짐종국 #에스파"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT30M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1874676",
+        "likeCount": "41008",
+        "favoriteCount": "0",
+        "commentCount": "2710"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kUI6K3bQ8nPU-hyS9R1EQ9lJLtk",
+      "id": "iHGv2nIvodo",
+      "snippet": {
+        "publishedAt": "2023-05-18T13:00:36Z",
+        "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+        "title": "(여자)아이들((G)I-DLE) _ 퀸카(Queencard) | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 미연 민니 소연 우기 슈화",
+        "description": "(여자)아이들((G)I-DLE) _ 퀸카(Queencard) | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 미연 민니 소연 우기 슈화\n\n#GIDLE#Queencard#1theKILLPO#Performance#New1theKOriginal#1theK#원더케이#원더케이오리지널\n\n[1theKILLPO] (G)I-DLE - Queencard\nThe killing part you picked is \n⚡Queencard Dance⚡(0:55, 1:56)! \n\n📌If this video hits 3 million views, we’ll release \"1theKILLPO Eye Contact\"! \n\n00:00 (G)I-DLE - Queencard\n00:55 ⚡ Kill Point - Queencard Dance (1)\n1:25 (G)I-DLE - Queencard\n1:56 ⚡ Kill Point - Queencard Dance (2)\n2:25 Queencard Walking Dance (2)\n\nK-POP Wonderland, 1theK\nK-POP의 모든 즐거움이 여기에,\n다양한 원더케이 오리지널 컨텐츠를 만나보세요!\n\nK-POP Wonderland, 1theK\nAll the joys of K-pop here!\n1theK has a wide variety of Original Content\n\n▶1theK YouTube https://www.youtube.com/1theK\n▶1theK Originals YouTube  https://www.youtube.com/1theKOriginals\n▶1theK Live YouTube https://www.youtube.com/@1theKLive\n▶1theK Facebook  http://www.facebook.com/1theK\n▶1theK Twitter https://twitter.com/1theK\n▶1theK TikTok  https://vt.tiktok.com/2mSMBS\n▶1theK Live Instagram https://www.instagram.com/1thek_live/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iHGv2nIvodo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iHGv2nIvodo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHGv2nIvodo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iHGv2nIvodo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iHGv2nIvodo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1theK Originals - 원더케이 오리지널",
+        "tags": [
+          "여자아이들",
+          "(G)I-DLE",
+          "퀸카",
+          "Queencard",
+          "여자아이들 퀸카",
+          "여자아이들 컴백",
+          "원더킬포",
+          "원더케이",
+          "퀸카 챌린지",
+          "여자아이들 챌린지",
+          "여자 아이들 무대",
+          "퀸카 무대",
+          "퀸카 안무",
+          "여자아이들 노래 모음",
+          "여자아이들 신곡"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "(여자)아이들((G)I-DLE) _ 퀸카(Queencard) | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 미연 민니 소연 우기 슈화",
+          "description": "(여자)아이들((G)I-DLE) _ 퀸카(Queencard) | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 미연 민니 소연 우기 슈화\n\n#GIDLE#Queencard#1theKILLPO#Performance#New1theKOriginal#1theK#원더케이#원더케이오리지널\n\n[1theKILLPO] (G)I-DLE - Queencard\nThe killing part you picked is \n⚡Queencard Dance⚡(0:55, 1:56)! \n\n📌If this video hits 3 million views, we’ll release \"1theKILLPO Eye Contact\"! \n\n00:00 (G)I-DLE - Queencard\n00:55 ⚡ Kill Point - Queencard Dance (1)\n1:25 (G)I-DLE - Queencard\n1:56 ⚡ Kill Point - Queencard Dance (2)\n2:25 Queencard Walking Dance (2)\n\nK-POP Wonderland, 1theK\nK-POP의 모든 즐거움이 여기에,\n다양한 원더케이 오리지널 컨텐츠를 만나보세요!\n\nK-POP Wonderland, 1theK\nAll the joys of K-pop here!\n1theK has a wide variety of Original Content\n\n▶1theK YouTube https://www.youtube.com/1theK\n▶1theK Originals YouTube  https://www.youtube.com/1theKOriginals\n▶1theK Live YouTube https://www.youtube.com/@1theKLive\n▶1theK Facebook  http://www.facebook.com/1theK\n▶1theK Twitter https://twitter.com/1theK\n▶1theK TikTok  https://vt.tiktok.com/2mSMBS\n▶1theK Live Instagram https://www.instagram.com/1thek_live/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1635639",
+        "likeCount": "88949",
+        "favoriteCount": "0",
+        "commentCount": "1261"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ppHQnbgDOY7pbsAK3K2Qe3USdxE",
+      "id": "aXaU6ZFOLlk",
+      "snippet": {
+        "publishedAt": "2023-05-18T11:05:58Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "'최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.797\n(여자)아이들 - 퀸카 ((G)I-DLE - Queencard)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "tags": [
+          "GIDLE",
+          "KPOP",
+          "MCD",
+          "MCOUNTDOWN",
+          "Mnet",
+          "Queencard",
+          "엠넷",
+          "엠카",
+          "엠카운트다운",
+          "여자아이들",
+          "케이팝",
+          "퀸카",
+          "티빙에서스트리밍"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "'최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.797\n(여자)아이들 - 퀸카 ((G)I-DLE - Queencard)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1027572",
+        "likeCount": "68161",
+        "favoriteCount": "0",
+        "commentCount": "1518"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gug87KmtFecjxAySGI8zY8WtsGc",
+      "id": "et3VDbL7cIA",
+      "snippet": {
+        "publishedAt": "2023-05-16T10:00:09Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "(여자)아이들((G)I-DLE)의 킬링보이스를 라이브로! - 퀸카, TOMBOY, 말리지마, POP/STARS, MY BAG, 한, 덤디덤디| 딩고뮤직 | Dingo Music",
+        "description": "신곡 퀸~카(Queencard)로 돌아온 (여자)아이들의 갓.벽한✨ 킬링보이스! \n\n[선곡리스트]\n0:00 오프닝\n0:34 LATATA\n1:38 한(一)\n2:42 한(寒)\n4:11 화(火花) \n5:05 POP/STARS\n6:17 Senorita\n7:59 Uh-Oh\n9:17 LION\n10:40 Oh my god\n12:18 덤디덤디(DUMDI DUMDI)\n13:46 TOMBOY\n14:57 말리지 마\n16:10 MY BAG\n17:57 Nude\n19:22 퀸카(Queencard)\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#여자아이들  #아이들 #GIDLE #미연 #민니 #소연 #우기 #슈화\n#MIYEON #MINNIE #SOYEON #YUQI #SHUHUA #Queencard \n#킬링보이스 #KillingVoice #딩고뮤직 #DingoMusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/et3VDbL7cIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/et3VDbL7cIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/et3VDbL7cIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/et3VDbL7cIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/et3VDbL7cIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "tags": [
+          "딩고뮤직",
+          "dingo",
+          "dingomusic",
+          "music",
+          "kpop",
+          "live",
+          "아이돌",
+          "라이브",
+          "음악",
+          "딩고",
+          "아이들",
+          "GIDLE",
+          "신곡",
+          "퀸카",
+          "Queencard",
+          "민니",
+          "미연",
+          "소연",
+          "우기",
+          "슈화",
+          "킬링보이스",
+          "killingvoice"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(여자)아이들((G)I-DLE)의 킬링보이스를 라이브로! - 퀸카, TOMBOY, 말리지마, POP/STARS, MY BAG, 한, 덤디덤디| 딩고뮤직 | Dingo Music",
+          "description": "신곡 퀸~카(Queencard)로 돌아온 (여자)아이들의 갓.벽한✨ 킬링보이스! \n\n[선곡리스트]\n0:00 오프닝\n0:34 LATATA\n1:38 한(一)\n2:42 한(寒)\n4:11 화(火花) \n5:05 POP/STARS\n6:17 Senorita\n7:59 Uh-Oh\n9:17 LION\n10:40 Oh my god\n12:18 덤디덤디(DUMDI DUMDI)\n13:46 TOMBOY\n14:57 말리지 마\n16:10 MY BAG\n17:57 Nude\n19:22 퀸카(Queencard)\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#여자아이들  #아이들 #GIDLE #미연 #민니 #소연 #우기 #슈화\n#MIYEON #MINNIE #SOYEON #YUQI #SHUHUA #Queencard \n#킬링보이스 #KillingVoice #딩고뮤직 #DingoMusic"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3999874",
+        "likeCount": "215566",
+        "favoriteCount": "0",
+        "commentCount": "9530"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D0XS4bCwVKw3zs9K1L5TYwMcgRM",
+      "id": "7HDeem-JaSY",
+      "snippet": {
+        "publishedAt": "2023-05-15T09:00:04Z",
+        "channelId": "UCritGVo7pLJLUS8wEu32vow",
+        "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
+        "description": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video\n\n[🎧] [I feel]\n▫Melon http://kko.to/VMbOLGvKmy\n▫https://ingrv.es/ifeel\n\nEpisode : '#퀸카 (#Queencard)'\n\n눈부신 조명 속 모두가 기다리던 파티가 시작되고···\n피드 뒤로 숨겨진 진정한 나를 찾기 위한 퀸카들의 노력이 시작된다.\n\n미치도록 동경하던 누군가와 마주하게 되며 느끼는 것\n'가끔 나는 열등감에 빠져 나 자신을 놓치고 있었던 건 아닐까?'\n\n화려한 파티가 끝난 뒤, 긴 잠에서 깨어난 SY\n이제 누군가의 퀸카가 되지 않아도 진짜 퀸카가 될 수 있는 '나'를 찾았다.\n\n\nComposed by 소연, Pop Time, Daily, Likey\nLyrics by 소연\nArranged by Pop Time, Daily, Likey, 소연\n\nHey you\n뭘 보니? 내가 좀 Sexy Sexy 반했니\nYe you\n뭐 하니? 너도 내 Kiss Kiss 원하니\n\n월 화 수 목 금 토 일 미모가 쉬지를 않네\n머리부터 발끝까지 눈부셔 빛이 나네\nOh 저기 언니야들 내 Fashion을 따라 하네\n아름다운 여자의 하루는 다 아름답네\n\n이 Party에 준비된 Birthday cake\n태어나서 감사해 Every day\nI don’t need them\n그래 내가 봐도 난\n\n퀸카 I’m hot\nMy boob and booty is hot\nSpotlight 날 봐\nI’m a star star star\n\n퀸카 I’m the top\nI’m twerking on the runway\nI am a 퀸카\nYou wanna be the 퀸카\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카 (Take a photo)\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카\n\nLook so cool look so sexy like Kim Kardashian\nLook so cute look so pretty like Ariana\nI wanna with you 뽀뽀\nI wanna with you 포옹\n자꾸 예뻐져 거울 속 너어~\n\n이 Party에 준비된 Blue Champagne\n태어난 걸 축하해 Every day\nI don’t need them\n그래 내가 봐도 난\n\n퀸카 I’m hot\nMy boob and booty is hot\nSpotlight 날 봐\nI’m a star star star\n\n퀸카 I’m the top\nI’m twerking on the runway\nI am a 퀸카\nYou wanna be the 퀸카\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카 (Take a photo)\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카\n\n아무거나 걸친 Girl 퀸카카카\n마르거나 살찐 Girl 퀸카카카\n자신감 넘치는 Girl 퀸카카카\nI am a 퀸카\nYou wanna be the 퀸카\n\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\n#여자아이들 #GIDLE #I_feel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7HDeem-JaSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7HDeem-JaSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7HDeem-JaSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7HDeem-JaSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7HDeem-JaSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "tags": [
+          "kpop",
+          "gidle",
+          "(여자)아이들",
+          "(G)I-DLE",
+          "IDLE",
+          "여자아이들",
+          "아이들",
+          "미연",
+          "민니",
+          "수진",
+          "소연",
+          "우기",
+          "슈화",
+          "MIYEON",
+          "MINNIE",
+          "SOOJIN",
+          "SOYEON",
+          "YUQI",
+          "SHUHUA",
+          "큐브",
+          "CUBE",
+          "미니 6집",
+          "I feel",
+          "퀸카",
+          "Queencard"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
+          "description": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video\n\n[🎧] [I feel]\n▫Melon http://kko.to/VMbOLGvKmy\n▫https://ingrv.es/ifeel\n\nEpisode : '#퀸카 (#Queencard)'\n\n눈부신 조명 속 모두가 기다리던 파티가 시작되고···\n피드 뒤로 숨겨진 진정한 나를 찾기 위한 퀸카들의 노력이 시작된다.\n\n미치도록 동경하던 누군가와 마주하게 되며 느끼는 것\n'가끔 나는 열등감에 빠져 나 자신을 놓치고 있었던 건 아닐까?'\n\n화려한 파티가 끝난 뒤, 긴 잠에서 깨어난 SY\n이제 누군가의 퀸카가 되지 않아도 진짜 퀸카가 될 수 있는 '나'를 찾았다.\n\n\nComposed by 소연, Pop Time, Daily, Likey\nLyrics by 소연\nArranged by Pop Time, Daily, Likey, 소연\n\nHey you\n뭘 보니? 내가 좀 Sexy Sexy 반했니\nYe you\n뭐 하니? 너도 내 Kiss Kiss 원하니\n\n월 화 수 목 금 토 일 미모가 쉬지를 않네\n머리부터 발끝까지 눈부셔 빛이 나네\nOh 저기 언니야들 내 Fashion을 따라 하네\n아름다운 여자의 하루는 다 아름답네\n\n이 Party에 준비된 Birthday cake\n태어나서 감사해 Every day\nI don’t need them\n그래 내가 봐도 난\n\n퀸카 I’m hot\nMy boob and booty is hot\nSpotlight 날 봐\nI’m a star star star\n\n퀸카 I’m the top\nI’m twerking on the runway\nI am a 퀸카\nYou wanna be the 퀸카\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카 (Take a photo)\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카\n\nLook so cool look so sexy like Kim Kardashian\nLook so cute look so pretty like Ariana\nI wanna with you 뽀뽀\nI wanna with you 포옹\n자꾸 예뻐져 거울 속 너어~\n\n이 Party에 준비된 Blue Champagne\n태어난 걸 축하해 Every day\nI don’t need them\n그래 내가 봐도 난\n\n퀸카 I’m hot\nMy boob and booty is hot\nSpotlight 날 봐\nI’m a star star star\n\n퀸카 I’m the top\nI’m twerking on the runway\nI am a 퀸카\nYou wanna be the 퀸카\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카 (Take a photo)\n\nI’m a 퀸카\nI’m a 퀸카\nI’m a I’m a I’m a 퀸카\nI’m a 퀸카\n\n아무거나 걸친 Girl 퀸카카카\n마르거나 살찐 Girl 퀸카카카\n자신감 넘치는 Girl 퀸카카카\nI am a 퀸카\nYou wanna be the 퀸카\n\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\n#여자아이들 #GIDLE #I_feel"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "47724170",
+        "likeCount": "932023",
+        "favoriteCount": "0",
+        "commentCount": "39831"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3Fyp2tO_dCMeX3dIDjeMhn3xTd8",
+      "id": "SuyD5cCLLxg",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:00:12Z",
+        "channelId": "UCjL2bp7EDRIk7rwwEYeofeg",
+        "title": "YOUNGTAK 영탁 [ 니편이야 ]  MV Teaser",
+        "description": "YOUNGTAK\nNEW DIGITAL SINGLE\n[ 니편이야 ] \n\n2023.05.22 12PM KST\n\n#YOUNGTAK #영탁  \n#니편이야 #ONYOURSIDE\n#TAKSTUDIO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SuyD5cCLLxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SuyD5cCLLxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SuyD5cCLLxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SuyD5cCLLxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SuyD5cCLLxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탁스튜디오 TakStudio",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "YOUNGTAK 영탁 [ 니편이야 ]  MV Teaser",
+          "description": "YOUNGTAK\nNEW DIGITAL SINGLE\n[ 니편이야 ] \n\n2023.05.22 12PM KST\n\n#YOUNGTAK #영탁  \n#니편이야 #ONYOURSIDE\n#TAKSTUDIO"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "79388",
+        "likeCount": "11887",
+        "favoriteCount": "0",
+        "commentCount": "3072"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ht5fCjEhZTZBnRP5eboKjk7hFZo",
+      "id": "l8jW3ktMiR8",
+      "snippet": {
+        "publishedAt": "2023-05-18T07:17:02Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "마늘쫑 맛있을때 많이 사오세요!! 이렇게 해두면 일년내내 가족들이 건강하고 행복합니다/ 건조마늘쫑요리 dried Garlic stem food",
+        "description": "마늘쫑20kg\n굵은소금 한웅큼\n물 5리터\n\n\n20kg of garlic stem\na handful of thick salt\n5 liters of water\n\n\n\n\n#마늘쫑피데기#건조마늘쫑요리#마늘쫑요리#건강한마늘쫑요리#간단마늘쫑요리#채식요리#마늘쫑생산지#의성마늘쫑#마늘쫑장아찌#마늘쫑조림#마늘쫑삭힘#마늘쫑만두#마늘쫑튀김#마늘쫑효능#마늘쫑볶음#건강한반찬#간단반찬#쉬운반찬#마이크로비오틱요리#다이어트요리#키토제닉#저염반찬###",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l8jW3ktMiR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l8jW3ktMiR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l8jW3ktMiR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l8jW3ktMiR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l8jW3ktMiR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "tags": ["km_마늘쫑_1080p_30f_20230518_145033"],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "마늘쫑 맛있을때 많이 사오세요!! 이렇게 해두면 일년내내 가족들이 건강하고 행복합니다/ 건조마늘쫑요리 dried Garlic stem food",
+          "description": "마늘쫑20kg\n굵은소금 한웅큼\n물 5리터\n\n\n20kg of garlic stem\na handful of thick salt\n5 liters of water\n\n\n\n\n#마늘쫑피데기#건조마늘쫑요리#마늘쫑요리#건강한마늘쫑요리#간단마늘쫑요리#채식요리#마늘쫑생산지#의성마늘쫑#마늘쫑장아찌#마늘쫑조림#마늘쫑삭힘#마늘쫑만두#마늘쫑튀김#마늘쫑효능#마늘쫑볶음#건강한반찬#간단반찬#쉬운반찬#마이크로비오틱요리#다이어트요리#키토제닉#저염반찬###"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT7M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "291834",
+        "likeCount": "2078",
+        "favoriteCount": "0",
+        "commentCount": "101"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zLXiT-YryUr77RhyyzK-dtXUU3w",
+      "id": "AkCscDtA10g",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:00:05Z",
+        "channelId": "UC2mnRZUYMDrhUEuJnZ9ghBw",
+        "title": "여행 계획이 이렇게 설렐 일..? (feat. 덱스 플러팅 지옥)",
+        "description": "본격적으로 인도여행을 논의하는 기&빠&덱! \n하지만 갑자기 시작된 빠니의 폭로전.\n만난 지 몇 시간 만에 싸움구경각인가~ 했더니 \n덱스가 또 덱스했다.\n훅 치고 들어온 폭스덱스의 얼굴+애교+플러팅=형심저격완료\n여행 계획부터 이렇게 설렐 일이냐고!!!! 깩고닥.\n\n\n\n-\n태어난 김에 세계일주 시즌2 본방!\n6월, MBC에서 만나요🤟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkCscDtA10g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkCscDtA10g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkCscDtA10g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AkCscDtA10g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AkCscDtA10g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "태계일주 베이스캠프",
+        "tags": [
+          "태계일주",
+          "태계일주시즌2",
+          "태계일주 베이스캠프",
+          "태어난 김에 세계일주",
+          "기안",
+          "기안84",
+          "빠니보틀",
+          "빠니",
+          "덱스",
+          "기빠덱",
+          "인도",
+          "인도메기",
+          "인도여행",
+          "플러팅",
+          "애교",
+          "인생84",
+          "버킷리스트",
+          "갠지스강",
+          "취중진담",
+          "KTX",
+          "기차여행",
+          "히말라야",
+          "인도기차",
+          "인도경찰",
+          "빠니 극대노",
+          "엠뚜루마뚜루",
+          "MBC"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "여행 계획이 이렇게 설렐 일..? (feat. 덱스 플러팅 지옥)",
+          "description": "본격적으로 인도여행을 논의하는 기&빠&덱! \n하지만 갑자기 시작된 빠니의 폭로전.\n만난 지 몇 시간 만에 싸움구경각인가~ 했더니 \n덱스가 또 덱스했다.\n훅 치고 들어온 폭스덱스의 얼굴+애교+플러팅=형심저격완료\n여행 계획부터 이렇게 설렐 일이냐고!!!! 깩고닥.\n\n\n\n-\n태어난 김에 세계일주 시즌2 본방!\n6월, MBC에서 만나요🤟"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "194888",
+        "likeCount": "3773",
+        "favoriteCount": "0",
+        "commentCount": "284"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JXM3uWcWtrq5Bp8JL032tdLus2I",
+      "id": "-BxBB6smOSI",
+      "snippet": {
+        "publishedAt": "2023-05-17T11:29:45Z",
+        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+        "title": "British Uni Students Fly to Korea for the Best Korean BBQ!!",
+        "description": "Armand and Max are finally back in Korea, and this time as uni students! We have an amazing week planned out for them but first things first. First meal back in Korea: Pork BBQ with soju!\n\nHuge thanks to Andaz Hotel for letting us film. #andaz\n\n--\n\n여러분 저희가 아르망과 맥스 대학교 방학 하자마자 한국 데려왔어요! 빨리 칭찬해주세요!! 공항 도착 하자마자 고기앞으로 데려가서 눈물의 삼겹살+소주 먹방 합니다!!\n\n촬영에 도움을 주신 Andaz Hotel에 감사의 말씀드립니다. #안다즈 #andaz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-BxBB6smOSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-BxBB6smOSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-BxBB6smOSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-BxBB6smOSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-BxBB6smOSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영국남자 Korean Englishman",
+        "tags": [
+          "Korean",
+          "영국남자",
+          "영국",
+          "조쉬",
+          "올리",
+          "Josh",
+          "Ollie",
+          "KoreanEnglish",
+          "English",
+          "Man",
+          "englishman",
+          "food",
+          "음식",
+          "외국인",
+          "반응",
+          "영상",
+          "웃긴",
+          "남자",
+          "외국",
+          "도전",
+          "매운",
+          "조니",
+          "조엘",
+          "신부님",
+          "크리스",
+          "올리아빠",
+          "해물",
+          "치킨",
+          "삼겹살",
+          "korean",
+          "BBQ",
+          "fried",
+          "chicken",
+          "라면",
+          "불닭볶음면",
+          "미친남자"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "British Uni Students Fly to Korea for the Best Korean BBQ!!",
+          "description": "Armand and Max are finally back in Korea, and this time as uni students! We have an amazing week planned out for them but first things first. First meal back in Korea: Pork BBQ with soju!\n\nHuge thanks to Andaz Hotel for letting us film. #andaz\n\n--\n\n여러분 저희가 아르망과 맥스 대학교 방학 하자마자 한국 데려왔어요! 빨리 칭찬해주세요!! 공항 도착 하자마자 고기앞으로 데려가서 눈물의 삼겹살+소주 먹방 합니다!!\n\n촬영에 도움을 주신 Andaz Hotel에 감사의 말씀드립니다. #안다즈 #andaz"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2603012",
+        "likeCount": "126568",
+        "favoriteCount": "0",
+        "commentCount": "5105"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sOAu8WwSk8bqC6VCnKeIFa-_5v8",
+      "id": "AHxoA-9lzCM",
+      "snippet": {
+        "publishedAt": "2023-05-19T09:00:11Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "North America World Tour vlog",
+        "description": "#JENNIE #제니 #NorthAmerica #WorldTour #Vlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AHxoA-9lzCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AHxoA-9lzCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AHxoA-9lzCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AHxoA-9lzCM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AHxoA-9lzCM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jennierubyjane Official",
+        "tags": [
+          "YG Entertainment",
+          "YG",
+          "와이지",
+          "K-pop",
+          "BLACKPINK",
+          "블랙핑크",
+          "블핑",
+          "제니",
+          "Jennie",
+          "BLINK",
+          "블링크"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "North America World Tour vlog",
+          "description": "#JENNIE #제니 #NorthAmerica #WorldTour #Vlog"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1219568",
+        "likeCount": "196647",
+        "favoriteCount": "0",
+        "commentCount": "15535"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AqxcAldVFb6BaeEXU2122X5eNMQ",
+      "id": "K_UpIsrxc3E",
+      "snippet": {
+        "publishedAt": "2023-05-18T09:00:12Z",
+        "channelId": "UCSSkHIU1-nL_FeCjeZ_Xtvg",
+        "title": "국방부 마나 다 채워서 진화한 꼬부기 브브걸 유정 | 노빠꾸탁재훈 시즌2 EP.52",
+        "description": "✔구독 & 좋아요 & 알림설정 필수✔\n\n노빠꾸 탁재훈 게스트 지원 및 비즈니스 문의 \n: tak@chrome-ent.co.kr\n\n노빠꾸 탁재훈 인스타\n: https://www.instagram.com/noback_tak/...\n\n#유정 #탁재훈 #신규진 #예능",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_UpIsrxc3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_UpIsrxc3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_UpIsrxc3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K_UpIsrxc3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K_UpIsrxc3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "노빠꾸탁재훈",
+        "tags": [
+          "신규진",
+          "탁반장",
+          "노빡구",
+          "노빡탁",
+          "탁제훈",
+          "행주",
+          "노바구",
+          "노빡꾸",
+          "싱규진",
+          "남유ㅜ장",
+          "남유전",
+          "난유정",
+          "뉴정",
+          "유장",
+          "dbwjd"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "국방부 마나 다 채워서 진화한 꼬부기 브브걸 유정 | 노빠꾸탁재훈 시즌2 EP.52",
+          "description": "✔구독 & 좋아요 & 알림설정 필수✔\n\n노빠꾸 탁재훈 게스트 지원 및 비즈니스 문의 \n: tak@chrome-ent.co.kr\n\n노빠꾸 탁재훈 인스타\n: https://www.instagram.com/noback_tak/...\n\n#유정 #탁재훈 #신규진 #예능"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1261217",
+        "likeCount": "21164",
+        "favoriteCount": "0",
+        "commentCount": "1533"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "egk19brWj6u3KsUgsbzWZLlJMew",
+      "id": "uQoM8WJ_yWc",
+      "snippet": {
+        "publishedAt": "2023-05-18T11:08:02Z",
+        "channelId": "UCINRJxfiq8pXfQm1EucWFfw",
+        "title": "관상은 진짜 과학일까? 궁금해서 진짜 보러왔다! | feat. 덱스",
+        "description": "#관상  #덱스  #하승진\n\n하승진 트위치 생방송 : https://www.twitch.tv/haseungjin8584\n\n하승진 인스타그램 : https://instagram.com/seungjin8584\n\n[하승진 유튜브]\n구독과 좋아요는 큰 힘이 됩니다!\n많은 사랑 감사드립니다! :)\n\n문의 : hnk.studio1@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uQoM8WJ_yWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uQoM8WJ_yWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uQoM8WJ_yWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uQoM8WJ_yWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uQoM8WJ_yWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하승진 HASEUNGJIN",
+        "tags": [
+          "하승진",
+          "덱스",
+          "피의게임2",
+          "피의게임2 덱스 하승진",
+          "하승진 덱스 몸싸움",
+          "P의게임",
+          "OTT 예능",
+          "덱스 야생",
+          "피의게임 4화",
+          "덱스 하승진",
+          "하승진 덱스",
+          "덱스 싸움",
+          "하승진 싸움",
+          "관상",
+          "관상은 과학",
+          "과학"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "관상은 진짜 과학일까? 궁금해서 진짜 보러왔다! | feat. 덱스",
+          "description": "#관상  #덱스  #하승진\n\n하승진 트위치 생방송 : https://www.twitch.tv/haseungjin8584\n\n하승진 인스타그램 : https://instagram.com/seungjin8584\n\n[하승진 유튜브]\n구독과 좋아요는 큰 힘이 됩니다!\n많은 사랑 감사드립니다! :)\n\n문의 : hnk.studio1@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "305184",
+        "likeCount": "7630",
+        "favoriteCount": "0",
+        "commentCount": "1787"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8-RqHx7ylwZe7bjs63ZUQc-gVHE",
+      "id": "jp0kTw1TCy0",
+      "snippet": {
+        "publishedAt": "2023-05-18T13:21:14Z",
+        "channelId": "UCWICXNlSLc7eeNazpzUZcLg",
+        "title": "FAST X | Angel Pt. 1 (Official Video) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long",
+        "description": "FAST X | Angel Pt. 1 (Official Music Video) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long\n\nAngel Pt 1. by NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long \nOut Now: https://fastx.lnk.to/angel-pt1\nFAST X Original Motion Picture Soundtrack: https://fastx.lnk.to/soundtrack\n\nFollow NLE Choppa:\nTxt: (901)245-5603\nWeb: https://nlechoppa.com\nEmail:  https://nlechoppa.com/mailing-list\nInstagram: https://instagram.com/nlechoppamusic\nFacebook: https://facebook.com/nlechoppamusic\nTwitter: https://twitter.com/nlechoppa1\nSnapchat: https://snapchat.com/add/nlechoppamusic\nTikTok: https://www.tiktok.com/@nlechoppamusic\nTriller: https://triller.co/@nlechoppa\n\nFollow Kodak Black\nYouTube: https://youtube.com/c/KodakBlack1K\nInstagram: https://www.instagram.com/kodakblack/\nTikTok: https://www.tiktok.com/@kodakblack\n\nFollow Jimin of BTS\nYouTube: https://www.youtube.com/@HYBELABELS\nInstagram: https://www.instagram.com/j.m\nTikTok: https://www.tiktok.com/@bts_official_bighit\n\nFollow JVKE\nYouTube: https://youtube.com/@JVKE\nInstagram: https://www.instagram.com/itsjvke/\nTikTok: https://www.tiktok.com/@jvke\n\nFollow Muni Long\nYouTube: https://youtube.com/@MuniLong\nInstagram: https://www.instagram.com/munilong/\nTikTok: https://www.tiktok.com/@munilong\n\nFollow The Fast Saga\nYouTube: @TheFastSaga \nInstagram: https://www.instagram.com/thefastsaga/ \nTikTok: https://www.tiktok.com/@thefastsaga\n\nCREATIVE TEAM:\n\nDirectors: Stripmall @stripmallproductions\nProduction Company: Dreambear @drmbear\nExecutive Producers: Evan Brown & Dave Gelb @evanmbrown @allthedave\nProducers: Nicolette Moreno & Jagger Corcione @nicsolit @burberryboxers\nDirector of Photography: Brett Arndt @b.a.cinema\nEditor: Ross Constable @ross_constable \nColorist: Bryan Smaller of Company3 @bryansmaller of @company_3\nVFX: Stripmall, Surpreeze & Thermonuclear @stripmallproductions @surpreeze @thermonuclear.tv\n\nLabel: Artist Partner Group @artistpg\n\nSVP Marketing, APG: Corey “Notes” Calder @coreynotes\nVideo Commissioner, APG: Enzo Borrelli @enzo.apg\n\nLYRICS:\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things\n\n(Kodak Black)\nI give it all up to ease your pain yeah I would do that all day\nI stepped back from the game to keep you out of harm’s way\nRisk it all for the game but it take more than one person\nTwo people one til I feel the same when you hurting\nI was still in middle school when Givens fled the whip\nBodies were dropping before we ever knew bout the truck\nWe gonna be family no matter what way this go brother\nFrom the ugly corner where everybody betray each other\nI let you hang in the jets\nI let you bang with my set\nPut you before my own flesh\nLike why’d I ever do that\nMe and the streets got soul ties\nThe devil on my shoulder he whisper but I told him\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things\n\n(NLE Choppa)\nGeneration curses of disloyalty\nWe breaking that\nLost my dog\nGot him back\nTook him in\nWe shakin’ back\n\n#NLEChoppa #FASTX #FASTXSoundtrack #AngelPt1\n\nStruggle never broke us\nIt just made us who we is\nLosses taught a lot of lessons\nMade the wins feeling like blessings\nFamily all that you got at the end\nHope you get the message\nI ain’t trying to make it without you\nBut if I got to then I got you\nThis aint about me it’s about the whole cake\nWe can take a slice on a different day\nJust keep your plate\nGod, Family, Money, Goals\nHeart, Mind, Body, Soul\nWatching out for street signs on a narrow road\nRainbows at the end\nI’m praying for a pot of gold and some angels\n\n(Pre-Chorus)\nDon’t you know (x4)\nI will never let you down\nNo, I’ll never be perfect\nNever want to see you hurting\nYou should go (x2)\nGet away fast\nA hundred on the dash tonight\nWish it didn’t have to be this way\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jp0kTw1TCy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jp0kTw1TCy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jp0kTw1TCy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jp0kTw1TCy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jp0kTw1TCy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NLE CHOPPA",
+        "tags": [
+          "fast x",
+          "fast x angel pt 1",
+          "fast x soundtrack",
+          "angel pt 1 jimin",
+          "angel pt 1 nle choppa",
+          "nle choppa",
+          "kodak black",
+          "jvke",
+          "muni long",
+          "jimin",
+          "jimin angel pt 1",
+          "fast x angel pt 1 official video",
+          "angel pt 1 official video",
+          "jimin nle choppa",
+          "jimin nle choppa video",
+          "new jimin song",
+          "jimin bts",
+          "new nle choppa video",
+          "new kodak black",
+          "new kodak black video",
+          "angel part 1",
+          "angel part 1 jimin",
+          "angel part 1 official video",
+          "fast x music",
+          "fast x official video",
+          "fast x movie",
+          "fast x 2023",
+          "bts"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FAST X | Angel Pt. 1 (Official Video) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long",
+          "description": "FAST X | Angel Pt. 1 (Official Music Video) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long\n\nAngel Pt 1. by NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long \nOut Now: https://fastx.lnk.to/angel-pt1\nFAST X Original Motion Picture Soundtrack: https://fastx.lnk.to/soundtrack\n\nFollow NLE Choppa:\nTxt: (901)245-5603\nWeb: https://nlechoppa.com\nEmail:  https://nlechoppa.com/mailing-list\nInstagram: https://instagram.com/nlechoppamusic\nFacebook: https://facebook.com/nlechoppamusic\nTwitter: https://twitter.com/nlechoppa1\nSnapchat: https://snapchat.com/add/nlechoppamusic\nTikTok: https://www.tiktok.com/@nlechoppamusic\nTriller: https://triller.co/@nlechoppa\n\nFollow Kodak Black\nYouTube: https://youtube.com/c/KodakBlack1K\nInstagram: https://www.instagram.com/kodakblack/\nTikTok: https://www.tiktok.com/@kodakblack\n\nFollow Jimin of BTS\nYouTube: https://www.youtube.com/@HYBELABELS\nInstagram: https://www.instagram.com/j.m\nTikTok: https://www.tiktok.com/@bts_official_bighit\n\nFollow JVKE\nYouTube: https://youtube.com/@JVKE\nInstagram: https://www.instagram.com/itsjvke/\nTikTok: https://www.tiktok.com/@jvke\n\nFollow Muni Long\nYouTube: https://youtube.com/@MuniLong\nInstagram: https://www.instagram.com/munilong/\nTikTok: https://www.tiktok.com/@munilong\n\nFollow The Fast Saga\nYouTube: @TheFastSaga \nInstagram: https://www.instagram.com/thefastsaga/ \nTikTok: https://www.tiktok.com/@thefastsaga\n\nCREATIVE TEAM:\n\nDirectors: Stripmall @stripmallproductions\nProduction Company: Dreambear @drmbear\nExecutive Producers: Evan Brown & Dave Gelb @evanmbrown @allthedave\nProducers: Nicolette Moreno & Jagger Corcione @nicsolit @burberryboxers\nDirector of Photography: Brett Arndt @b.a.cinema\nEditor: Ross Constable @ross_constable \nColorist: Bryan Smaller of Company3 @bryansmaller of @company_3\nVFX: Stripmall, Surpreeze & Thermonuclear @stripmallproductions @surpreeze @thermonuclear.tv\n\nLabel: Artist Partner Group @artistpg\n\nSVP Marketing, APG: Corey “Notes” Calder @coreynotes\nVideo Commissioner, APG: Enzo Borrelli @enzo.apg\n\nLYRICS:\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things\n\n(Kodak Black)\nI give it all up to ease your pain yeah I would do that all day\nI stepped back from the game to keep you out of harm’s way\nRisk it all for the game but it take more than one person\nTwo people one til I feel the same when you hurting\nI was still in middle school when Givens fled the whip\nBodies were dropping before we ever knew bout the truck\nWe gonna be family no matter what way this go brother\nFrom the ugly corner where everybody betray each other\nI let you hang in the jets\nI let you bang with my set\nPut you before my own flesh\nLike why’d I ever do that\nMe and the streets got soul ties\nThe devil on my shoulder he whisper but I told him\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things\n\n(NLE Choppa)\nGeneration curses of disloyalty\nWe breaking that\nLost my dog\nGot him back\nTook him in\nWe shakin’ back\n\n#NLEChoppa #FASTX #FASTXSoundtrack #AngelPt1\n\nStruggle never broke us\nIt just made us who we is\nLosses taught a lot of lessons\nMade the wins feeling like blessings\nFamily all that you got at the end\nHope you get the message\nI ain’t trying to make it without you\nBut if I got to then I got you\nThis aint about me it’s about the whole cake\nWe can take a slice on a different day\nJust keep your plate\nGod, Family, Money, Goals\nHeart, Mind, Body, Soul\nWatching out for street signs on a narrow road\nRainbows at the end\nI’m praying for a pot of gold and some angels\n\n(Pre-Chorus)\nDon’t you know (x4)\nI will never let you down\nNo, I’ll never be perfect\nNever want to see you hurting\nYou should go (x2)\nGet away fast\nA hundred on the dash tonight\nWish it didn’t have to be this way\n\n(Hook)\nAngel don’t fly so close to me\nI pull you down eventually\nYou don’t want to lose those wings\nPeople like me break beautiful things\nAngel don’t fly so close to me\nI’m what you want, not what you need\nYou don’t want to lose those wings\nPeople like me break beautiful things"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4660832",
+        "likeCount": "613685",
+        "favoriteCount": "0",
+        "commentCount": "55379"
+      }
+    }
+  ],
+  "nextPageToken": "CBQQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 20
+  }
+}
