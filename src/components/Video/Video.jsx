@@ -13,11 +13,13 @@ function Video({
   };
 
   return (
-    <div onClick={() => handleClick(channelId)}>
-      <img src={url} alt={title} />
-      <span>{title}</span>
-      <span>{channelTitle}</span>
-      <span>{publishedAt}</span>
+    <div className="flex flex-col" onClick={() => handleClick(channelId)}>
+      <img className="h-30" src={url} alt={title} />
+      <div className="h-20 min-h-20">
+        <span className="line-clamp-2 text-white">{title}</span>
+      </div>
+      <span className="text-zinc-400">{channelTitle}</span>
+      <span className="text-zinc-400">{publishedAt}</span>
     </div>
   );
 }

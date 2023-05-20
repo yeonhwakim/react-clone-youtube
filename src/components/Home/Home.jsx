@@ -15,16 +15,16 @@ function Home() {
   };
 
   return (
-    <>
+    <div className="bg-black">
       {!mostPopularVideos.length && "EMPTY"}
       {mostPopularVideos.length && (
-        <ul>
+        <ul className="grid grid-cols-4 gap-4">
           {mostPopularVideos.map(
             ({
               id,
               snippet: {
                 thumbnails: {
-                  default: { url },
+                  high: { url },
                 },
                 title,
                 publishedAt,
@@ -46,7 +46,7 @@ function Home() {
           )}
         </ul>
       )}
-    </>
+    </div>
   );
 }
 
