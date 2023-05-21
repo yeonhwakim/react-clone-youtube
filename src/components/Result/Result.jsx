@@ -1,11 +1,27 @@
 import React from "react";
 
-import { useParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+
+import useFetchVideos from "../../hooks/use-fetch-videos";
+
+import Videos from "../Videos/Videos";
 
 function Result() {
-  const { keyword } = useParams();
+  const navigate = useNavigate();
+  const searchVideos = useFetchVideos("search");
 
-  return <div>Result - {keyword}</div>;
+  const handleClickVideo = (id) => {
+    navigate(`/videos/watch/${id}`);
+  };
+
+  return (
+    <div className="bg-black">
+      {!searchVideos.length && "EMPTY"}
+      {searchVideos.length && (
+        <Videos videos={searchVideos} handleClickVideo={handleClickVideo} />
+      )}
+    </div>
+  );
 }
 
 export default Result;
