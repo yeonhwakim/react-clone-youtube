@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2ASY6bwFRxacCHCErGOWTLIj0Kk",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 404565,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0FMhviIKHO_TkXKFL6Wh6dG23bI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DxPhQhSsr1A"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T14:30:03Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[7~8회 요약] 돌담병원에 닥친 위기? 도주한 군부대 총기난사범을 마주한 안효섭 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시·[토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥요약 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T14:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RuIuVeuslEYSVbbnUDeVNSbsxHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AKkaj2Y0vUg"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T14:03:34Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[9회 예고] ＂도와주세요!＂ 노후로 붕괴된 건물 속 아이들 그리고 안효섭의 행방은? #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시·[토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #한석규 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AKkaj2Y0vUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AKkaj2Y0vUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AKkaj2Y0vUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T14:03:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bebNgdfrZJm3JsoTDi-Y2jpZ9cY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YvzmwE10PbM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T02:00:13Z",
+        "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+        "title": "[#습드소] 돌담병원 막내즈 웅선생의 비밀 No.1 (뼈쌤의 서윗함에 치인다💘) #낭만닥터김사부3 #DrRomantic3 #SBSdrama",
+        "description": "낭만닥터 김사부3 7-8회 기획 영상을 공개합니다. SBS 금토드라마 '낭만닥터 김사부3 (Dr.Romantic3)' ☞ 금요일 밤 10시, 토요일 밤 9 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YvzmwE10PbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YvzmwE10PbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YvzmwE10PbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T02:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e8Lap8vQS69MlZw0So0mwqeUufY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QHJZbXgJuyM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T15:00:16Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "금쪽이 장동화쌤 이제 호감캐로 바뀜ㅜㅜ💙🤣 동화 꿀귀 모먼트 모음.zip #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시 · [토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T15:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zj4U8ZyyQbGDF_ZdTwncQwyGXSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jWzYPpvk0bw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T14:20:00Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "[요약] 주먹 좀 쓰던 시절 김민재의 과거가 드디어 ㄷㄷ;;  #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD [요약] 주먹 좀 쓰던 시절 김민재의 과거가 드디어 ㄷㄷ;; #낭만닥터김사부3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWzYPpvk0bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWzYPpvk0bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWzYPpvk0bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T14:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YHGP3_dQ9QJ04rAQU3FLvxJKYvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VE6qP9PfX7s"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T15:00:22Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "[7-8회 하이라이트] 🚨돌담 점령한 군부대 총기난사범 등장🚨 한석규X안효섭X이성경, 총체적 난국! #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD [7-8회 하이라이트] 돌담 점령한 군부대 총기난사범 등장   한석규X안효섭X이성경, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VE6qP9PfX7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VE6qP9PfX7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VE6qP9PfX7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T15:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z6WRZiTYkbMVvydfZu7vaBtYAWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TJ2FQ-umdGw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T08:00:09Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "낭만닥터 김사부 시즌 1-2 모든 에피소드를 60분 만에 결말까지 한 방에 몰아보기🩺 (by.고몽) #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 새 금토드라마 '낭만닥터 김사부3' ☞ 4월 28일 [금] 밤 10시 첫 방송 #낭만닥터김사부3 #drromantic3 #한석규 #안효섭 #이성경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJ2FQ-umdGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJ2FQ-umdGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJ2FQ-umdGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T08:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ap5AOtkH1NiO96oelb7PWETLxV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Px6br_1yUm4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T08:00:09Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[#낭만처방전] 김민재♥소주연 깍지 끼고 난리 났다..!!! ※심쿵주의※달달주의※망붕주의※ #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시 · [토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #한석규 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Px6br_1yUm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Px6br_1yUm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Px6br_1yUm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T08:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lfblymZCSaRPIcs6GytT1M4hpfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "99ulRIAFsgs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T14:08:16Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "돌담 금쪽이 동화x선웅이 살려낸 첫 환자들! 뿌듯함을 넘어 벅차오르는 감정😭 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시 · [토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99ulRIAFsgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99ulRIAFsgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99ulRIAFsgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T14:08:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aqPKw_QzewnxvfKIUYGEIXvypQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SR-bS0i6iI4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T14:17:55Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "🚨긴급 혈액 이송 중🚨 수술실에 피가 부족하다...! 폭설에 혈액 들고 직접 뛰는 밍구기와 호준이 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞ [금] 밤 10시 · [토] 밤 9시 50분 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SR-bS0i6iI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SR-bS0i6iI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SR-bS0i6iI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T14:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Wmd1ksZfVloCN85oOI4YfzunSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1A-wQferbsw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T10:00:00Z",
+        "channelId": "UC41Vyqs1wSY0FTMqDsLsELA",
+        "title": "[낭만닥터 김사부 시즌1] 결말까지 몰아보기 리뷰👨‍⚕️ 낭닥3 방영 전 예습하기✨ #낭만닥터김사부1 #출근후리뷰",
+        "description": "한석규 #유연석 #서현진 #낭만닥터김사부 출근한 뒤 눈치 보면서 만드는 '출근후리뷰' 결말 포함 스포가 있습니다 SBS 드라마 낭만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1A-wQferbsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1A-wQferbsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1A-wQferbsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빽드 - SBS 옛날 드라마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T10:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VdxmdLRKeh3fHeAqnnaPb9qyRwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vOzZ0HgmG0A"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T01:30:18Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "병원에서 꽁냥꽁냥 안효섭💗이성경 본인들 빼고 커피 자판기까지 다 아는 것 같은 연애모드 모먼트! #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD 병원에서 꽁냥꽁냥 안효섭  이성경 본인들 빼고 커피 자판기까지 다 아는 것 같은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOzZ0HgmG0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOzZ0HgmG0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOzZ0HgmG0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T01:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FtI_Uik13rcGXR25kXIwCtjv1qU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TmlXxvnCqNg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T08:00:11Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "낭만닥터 김사부 시즌 1~2 에피소드 60분 만에 복습하면서 몰아보기!👨🏻‍⚕️👩‍⚕️ (By 고몽) #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD 지방의 초라한 돌담병원을 배경으로 벌어지는 '진짜 닥터' 이야기 다시 돌아온 〈낭만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-DStbGNC2KA52K9WvmcUquFBu1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SInzt1so6Ko"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T14:20:00Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "우리 빌런이 달라졌어요! 김주헌X고상호 환상의 콤비로 🚨 긴급 혈액 수송🚨 돌담 사람 다 됐네~  #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD 우리 빌런이 달라졌어요! 김주헌X고상호 환상의 콤비로 긴급 혈액 수송   돌담 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SInzt1so6Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SInzt1so6Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SInzt1so6Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T14:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3J__kobbFtyYWi3Pw4ZwniFedPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xfe5XnU-X0U"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T08:00:26Z",
+        "channelId": "UC79hJz6y1EEiIkwfHOuWC4w",
+        "title": "참교육의 신이라고? 숨겨진 힘으로 사람을 살려.. 양아치 100명을 숨도 못쉬게 만드는 신급 의사 ㄷㄷ [낭만닥터 김사부 시즌1, 2 몰아보기]",
+        "description": "김시선 #sbs드라마 #낭만닥터김사부 #한석규 SBS 레전드 드라마 ≪낭만닥터 김사부≫ 시즌1, 2 내용입니다. 후속편 시즌3!!!는 4월 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfe5XnU-X0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfe5XnU-X0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfe5XnU-X0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김시선",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T08:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zSnpsvuLLKHUkox47NcjRquMlII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JRI3CZwmJRo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T14:30:07Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "멈춘 심장을 손으로 마사지해서 살리는 김사부와 차은재 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부 3' ☞ [금,토] 밤 10시 #낭만닥터김사부3 #drromantic3 #한석규 #이성경 #변우민 #심장마사지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JRI3CZwmJRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JRI3CZwmJRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JRI3CZwmJRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BcWfhJz1pHnbwF3bnayZJ8QdB3w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MMMUq8WGDcE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T01:00:08Z",
+        "channelId": "UCaHGOzOyeYzLQeKsVkfLEGA",
+        "title": "그냥 찌질한 50대 백수 아저씬 줄 알고 개무시했는데 대한민국 NO.1 천재 의사+병원 면접관이었다..ㅠ 시청률 28.4% 레전드 드라마 컴백..!≪낭만닥터 김사부3≫ 1-2",
+        "description": "지무비 #드라마 #낭만닥터3 드라마 ≪낭만닥터3≫, 1화~2화의 내용입니다. 채널 SBS에서 매주 금, 밤 10시 방영됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MMMUq8WGDcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MMMUq8WGDcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MMMUq8WGDcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지무비 : G Movie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T01:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XsaHOMNsD6I0YrhPUDVu82Dq4yo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M7Unm5qSE2w"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T02:30:11Z",
+        "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+        "title": "[#습포이드] 총상 환자에 비상 걸린 돌담🚨 수술중 다시 찾아온 이성경의 위기😥 #낭만닥터김사부3 #DrRomantic3 #SBSdrama",
+        "description": "습포이드 #한석규 #이성경 #안효섭 #김민재 #진경 #임원희 #변우민 [명장면만 쏙쏙 골라 보자!] '총상 환자에 비상 걸린 돌담과 이성경' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M7Unm5qSE2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7Unm5qSE2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M7Unm5qSE2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T02:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKNviRjGk0iIYdOPAlYaFpO-Ho0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u-o-YBgwBzc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-13T02:00:22Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "장인어른도 인정한 경지에 오른 수술 장인 서우진 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞[금,토] 밤 10시 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #한석규 #안효섭 #이성경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u-o-YBgwBzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u-o-YBgwBzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-o-YBgwBzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-13T02:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "78fetbenGupAztpuHVG7wFUaLxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-iSoHoCtjBo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T15:00:00Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "돌담 금쪽이에게 들려주는달고 따뜻한 김사부의 라떼☕ #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "낭만닥터김사부3 #drromantic3 #한석규 #이신영 #라떼 ▷ Subscribe NOW! SBS NOW! https://bit.ly/2YRf9Kn ▷ Homepage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-iSoHoCtjBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-iSoHoCtjBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-iSoHoCtjBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VSt8A2KQlXCNp2PpWgUQ1FMSEpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iMNLjna9xDM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T08:00:25Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "&#39;돌아온 낭만의 시대&#39; 낭만닥터 김사부 시즌 1-2 모든 에피소드를 결말까지 한 방에 몰아보기🩺 (by.김시선) #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 새 금토드라마 '낭만닥터 김사부3' ☞ 4월 28일 [금] 밤 10시 첫 방송 #낭만닥터김사부3 #drromantic3 #한석규 #안효섭 #이성경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iMNLjna9xDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iMNLjna9xDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iMNLjna9xDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7rax7h9hB4aBcDcbliC-2aaBiLQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HBcBilZXBv4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T14:25:00Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "선배들 없는 돌담병원! MZ신입 막내들이 책임진다⚡ 대환장의 돌담 응급실ㅋㅋ #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD 선배들 없는 돌담병원! MZ신입 막내들이 책임진다⚡ 대환장의 돌담 응급실ㅋㅋ #낭만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HBcBilZXBv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HBcBilZXBv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HBcBilZXBv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T14:25:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hD4ypAvthWyNKDeY5TGRmX24-J4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zyGfqgCkBqo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-06T14:30:14Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "김사부 이렇게 빡친 거 처음 봄ㄷㄷ 김사부 사이다 참교육 모음.zip #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3' ☞[금,토] 밤 10시 #낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #한석규 #안효섭 #이성경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyGfqgCkBqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyGfqgCkBqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyGfqgCkBqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-06T14:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wbKvk4nzfhbdPL7S1Xi4dR_MJdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cjIQQBXBG_k"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-13T02:30:15Z",
+        "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+        "title": "[#습포이드] 첫날부터 대혼란 권역외상센터😨 우선순위에 밀려 잊혀진 도의원 아들의 죽음😥 #낭만닥터김사부3 #DrRomantic3 #SBSdrama",
+        "description": "습포이드 #한석규 #이성경 #안효섭 #김민재 #진경 #임원희 #변우민 [명장면만 쏙쏙 골라 보자!] '우선순위에 밀려 잊혀진 환자의 죽음' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjIQQBXBG_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjIQQBXBG_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjIQQBXBG_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-13T02:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yazl3sIlC2T00wLlkXzc9J7xy24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Ie41Jx1Yiw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T02:00:00Z",
+        "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+        "title": "[#습드소] 골키퍼 있다고 골 안 들어가나요~? 네. 골키퍼가 은탁쌤이라^^ (장금쪽이는 낄끼빠빠 부탁드려요🙏) #낭만닥터김사부3 #DrRomantic3 #SBSdrama",
+        "description": "낭만닥터 김사부3 5-6회 기획 영상을 공개합니다. SBS 금토드라마 '낭만닥터 김사부3 (Dr.Romantic3)' ☞ 금, 토 밤 10시 본방송 #낭만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Ie41Jx1Yiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Ie41Jx1Yiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Ie41Jx1Yiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T02:00:00Z"
+      }
+    }
+  ]
+}
