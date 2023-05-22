@@ -19,6 +19,7 @@ function Videos({ videos, handleClickVideo }) {
         }) => (
           <Video
             key={typeof id === "string" ? id : id.videoId || id.channelId}
+            id={typeof id === "string" ? id : id.videoId || ""}
             url={url}
             title={title}
             channelTitle={channelTitle}

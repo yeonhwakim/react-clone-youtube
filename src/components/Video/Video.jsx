@@ -2,6 +2,7 @@ import React from "react";
 import { diffDate } from "../../utils/date";
 
 function Video({
+  id,
   url,
   channelId,
   title,
@@ -9,12 +10,12 @@ function Video({
   publishedAt,
   handleClickVideo,
 }) {
-  const handleClick = (channelId) => {
-    handleClickVideo(channelId);
+  const handleClick = (id) => {
+    handleClickVideo(id);
   };
 
   return (
-    <li className="flex flex-col" onClick={() => handleClick(channelId)}>
+    <li className="flex flex-col" onClick={() => handleClick(id || channelId)}>
       <img className="h-30" src={url} alt={title} />
       <div className="h-20 min-h-20">
         <span className="line-clamp-2 text-white">{title}</span>
