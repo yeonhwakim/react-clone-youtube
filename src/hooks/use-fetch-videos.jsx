@@ -2,8 +2,9 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
 function useFetchVideos(type) {
-  const { keyword } = useParams();
+  const { keyword, id } = useParams();
   const [videos, setVideos] = useState([]);
+  const [video, setVideo] = useState({});
 
   useEffect(() => {
     fetch(
@@ -11,13 +12,17 @@ function useFetchVideos(type) {
         ? "/data/most-popular-videos.json"
         : type === "search"
         ? `/data/search-${keyword}-videos.json`
-        : ""
+        : type === "related"
+        ? `/data/related-${id}-videos.json`
+        : `/data/detail-${id}-video.json`
     )
       .then((res) => res.json())
-      .then((data) => setVideos(data.items));
-  }, [type, keyword]);
+      .then((data) =>
+        type === "detail" ? setVideo(data.items[0]) : setVideos(data.items)
+      );
+  }, [type, keyword, id]);
 
-  return videos;
+  return type === "detail" ? video : videos;
 }
 
 export default useFetchVideos;
