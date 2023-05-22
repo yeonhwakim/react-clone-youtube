@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "A8Qgli_71haRPrfC6AHtFdw0pMw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "AU_-jJwVAIUCP8nsB_l8Ui2xC_E",
+      "id": "DxPhQhSsr1A",
+      "snippet": {
+        "publishedAt": "2023-05-20T14:30:03Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[7~8회 요약] 돌담병원에 닥친 위기? 도주한 군부대 총기난사범을 마주한 안효섭 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3'\n☞ [금] 밤 10시·[토] 밤 9시 50분 \n\n#낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥요약\n#한석규 #안효섭 #이성경 #김민재 #소주연 #낭닥 #낭닥3\n\n▶ Subscribe NOW! SBS NOW!  https://bit.ly/2YRf9Kn\n▶ Homepage : https://programs.sbs.co.kr/drama/drromantic3/\n▶ Facebook : https://www.facebook.com/sbsdrama.official/ \n▶ Instagram : https://www.instagram.com/sbsdrama.official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DxPhQhSsr1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "tags": [
+          "SBS Entertainment",
+          "SBSDRAMA",
+          "SBS드라마",
+          "스브스드라마",
+          "에스비에스드라마",
+          "금토드라마",
+          "RomanticDrKim",
+          "drromantic3",
+          "낭만닥터김사부",
+          "낭닥",
+          "김사부",
+          "낭만닥터김사부2",
+          "낭만닥터김사부3",
+          "명대사",
+          "낭닥3",
+          "첫방송",
+          "낭닥첫방송",
+          "낭닥명대사",
+          "의학드라마",
+          "티저",
+          "예고",
+          "의사",
+          "돌담병원",
+          "돌담즈",
+          "한석규",
+          "안효섭",
+          "이성경",
+          "김민재",
+          "진경",
+          "임원희",
+          "변우민",
+          "김주헌",
+          "윤나무",
+          "신동욱",
+          "소주연",
+          "고상호",
+          "윤보라"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[7~8회 요약] 돌담병원에 닥친 위기? 도주한 군부대 총기난사범을 마주한 안효섭 #낭만닥터김사부3 #drromantic3｜SBSNOW",
+          "description": "SBS 금토드라마 '낭만닥터 김사부3'\n☞ [금] 밤 10시·[토] 밤 9시 50분 \n\n#낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥요약\n#한석규 #안효섭 #이성경 #김민재 #소주연 #낭닥 #낭닥3\n\n▶ Subscribe NOW! SBS NOW!  https://bit.ly/2YRf9Kn\n▶ Homepage : https://programs.sbs.co.kr/drama/drromantic3/\n▶ Facebook : https://www.facebook.com/sbsdrama.official/ \n▶ Instagram : https://www.instagram.com/sbsdrama.official/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT25M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "725939",
+        "likeCount": "4554",
+        "favoriteCount": "0",
+        "commentCount": "307"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
