@@ -1,10 +1,28 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+
+import { Navigate } from "react-router-dom";
+
+import useFetchVideos from "../../hooks/use-fetch-videos";
+
+import VideoPlayBox from "../Video/VideoPlayBox";
+import Videos from "../Videos/Videos";
 
 function Detail() {
-  const { id } = useParams();
+  const relatedVideos = useFetchVideos("related");
+  const video = useFetchVideos("detail");
 
-  return <div>Detail - {id}</div>;
+  const handleClickVideo = (id) => {
+    Navigate(`/videos/watch/${id}`);
+  };
+
+  return (
+    <div>
+      {Object.keys(video).length > 0 && <VideoPlayBox video={video} />}
+      {relatedVideos && (
+        <Videos videos={relatedVideos} handleClickVideo={handleClickVideo} />
+      )}
+    </div>
+  );
 }
 
 export default Detail;
