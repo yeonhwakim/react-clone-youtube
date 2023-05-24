@@ -1,14 +1,27 @@
 import React from "react";
 
-function VideoPlayBox({ video }) {
+function VideoPlayBox({ video, channel, handleClickChannel }) {
   const {
     id,
     snippet: {
       title,
-      channelTitle,
       localized: { description },
     },
   } = video;
+  const {
+    id: channelId,
+    snippet: {
+      title: channelTitle,
+      thumbnails: {
+        high: { url },
+      },
+    },
+  } = channel;
+
+  const handleClick = (channelId) => {
+    handleClickChannel(channelId);
+  };
+
   return (
     <div>
       <iframe
@@ -21,8 +34,8 @@ function VideoPlayBox({ video }) {
       ></iframe>
       <div>
         <span>{title}</span>
-        <div>
-          <img src="" alt="" />
+        <div onClick={() => handleClick(channelId)}>
+          <img src={url} alt={channelTitle} />
           <span>{channelTitle}</span>
         </div>
         <span>{description}</span>
