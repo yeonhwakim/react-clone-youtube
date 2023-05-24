@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "OW6dmRRGSz7s4ZMPZv4tgWdKBgw",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "ji7uJzBlRH-Uv0mxbw6_DyL-FYI",
+      "id": "UCcOYEm78CpaZQvPE6LtoSeA",
+      "snippet": {
+        "title": "SBS NOW / SBS 공식 채널",
+        "description": "습스 핫클립🔥 #스브스나우 #SBS공식유튜브채널\n\n▶ Contents Copyright & Sales Inquiry : contentspartner@sbs.co.kr\nⓒSBS, Corp ALL RIGHTS",
+        "customUrl": "@sbsnow",
+        "publishedAt": "2011-01-10T06:06:37Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/jRRYhd0slVyfd6P83tHW41c_PHnGuWM2tvtRhJsg2YeETzeUVVcKKw1GYhs-UaWWyvnUEAiUSw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/jRRYhd0slVyfd6P83tHW41c_PHnGuWM2tvtRhJsg2YeETzeUVVcKKw1GYhs-UaWWyvnUEAiUSw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/jRRYhd0slVyfd6P83tHW41c_PHnGuWM2tvtRhJsg2YeETzeUVVcKKw1GYhs-UaWWyvnUEAiUSw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SBS NOW / SBS 공식 채널",
+          "description": "습스 핫클립🔥 #스브스나우 #SBS공식유튜브채널\n\n▶ Contents Copyright & Sales Inquiry : contentspartner@sbs.co.kr\nⓒSBS, Corp ALL RIGHTS"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUcOYEm78CpaZQvPE6LtoSeA"
+        }
+      },
+      "statistics": {
+        "viewCount": "5858303706",
+        "subscriberCount": "5300000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "24459"
+      }
+    }
+  ]
+}
