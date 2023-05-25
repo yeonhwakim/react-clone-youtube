@@ -23,10 +23,10 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
   };
 
   return (
-    <div>
+    <div className="w-4/5 px-10">
       <iframe
-        width="980"
-        height="551"
+        width="1000"
+        height="600"
         src={`https://www.youtube.com/embed/${id}`}
         title={title}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -34,11 +34,14 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
       ></iframe>
       <div>
         <span>{title}</span>
-        <div onClick={() => handleClick(channelId)}>
-          <img src={url} alt={channelTitle} />
-          <span>{channelTitle}</span>
+        <div
+          className="flex flex-row items-center py-3"
+          onClick={() => handleClick(channelId)}
+        >
+          <img className="h-10" src={url} alt={channelTitle} />
+          <span className="text-zinc-400 px-3">{channelTitle}</span>
         </div>
-        <span>{description}</span>
+        <span className="line-clamp-2 text-white">{description}</span>
       </div>
     </div>
   );

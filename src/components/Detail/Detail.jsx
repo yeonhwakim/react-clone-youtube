@@ -31,7 +31,11 @@ function Detail() {
         />
       )}
       {relatedVideos && (
-        <Videos videos={relatedVideos} handleClickVideo={handleClickVideo} />
+        <Videos
+          type="related"
+          videos={relatedVideos}
+          handleClickVideo={handleClickVideo}
+        />
       )}
     </div>
   );
