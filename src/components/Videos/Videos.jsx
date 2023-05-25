@@ -1,9 +1,15 @@
 import React from "react";
 import Video from "../Video/Video";
 
-function Videos({ videos, handleClickVideo }) {
+function Videos({ type, videos, handleClickVideo }) {
   return (
-    <ul className="grid grid-cols-4 gap-4">
+    <ul
+      className={
+        type === "related"
+          ? "flex flex-col w-1/5 pr-10"
+          : "grid grid-cols-4 gap-4"
+      }
+    >
       {videos.map(
         ({
           id,
@@ -19,6 +25,8 @@ function Videos({ videos, handleClickVideo }) {
         }) => (
           <Video
             key={typeof id === "string" ? id : id.videoId || id.channelId}
+            type={type}
+            id={typeof id === "string" ? id : id.videoId || ""}
             url={url}
             title={title}
             channelTitle={channelTitle}

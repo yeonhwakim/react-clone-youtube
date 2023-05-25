@@ -1,0 +1,227 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "z0ZwviD-T3nUd4u_IUzOVVQxwoI",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 127,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rvn0SqEy-kurtyYRkTkXAYncIFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CbUNyRGRv78"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-22T01:15:35Z",
+        "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+        "title": "[#어습티비] 일촉즉발의 돌담?!😯 수술 중 패닉 온 이성경×총기난사범과 대치하는 안효섭! #낭만닥터김사부3 #DrRomantic3 #SBSdrama",
+        "description": "어떡해, 스브스 드라마 보다가 티비 속으로 빠져버렸어\n\n#어습티비 #낭만닥터김사부3 #한석규 #안효섭 #이성경\n\n몰입하게 되는 수술 중 패닉 온 이성경과, 총기난사범과 대치하는 안효섭을 공개합니다!\n\nSBS 금토드라마 ‘낭만닥터 김사부3 (Dr.Romantic3)’\n☞ 금, 토 밤 10시 본방송\n\n▶ Homepage : https://www.sbs.co.kr/tv/drama\n▶ Subscribe SBS Drama : https://bit.ly/2ShWout",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CbUNyRGRv78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CbUNyRGRv78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CbUNyRGRv78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CbUNyRGRv78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CbUNyRGRv78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-22T01:15:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qfn_z3i4qF1HfpAOtHOGwLAlIrE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TmlXxvnCqNg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T06:43:57Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "낭만닥터 김사부 시즌 1~2 에피소드 60분 만에 복습하면서 몰아보기!👨🏻‍⚕️👩‍⚕️ (By 고몽) #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▶https://goo.gl/bnT3WD\n\n지방의 초라한 돌담병원을 배경으로 \n벌어지는 '진짜 닥터' 이야기\n\n다시 돌아온 〈낭만닥터 김사부3〉\n2023년 4월 28일 첫 방송됩니다💙\n\n#SBS #낭만닥터김사부3\n#한석규 #안효섭 #이성경\n\n스브스캐치 페이스북 ▶ https://goo.gl/MYWh4V\n스브스캐치 인스타그램 ▶ https://goo.gl/9kukCu\n낭만닥터 김사부 시즌3 ▶ https://programs.sbs.co.kr/drama/drromantic3/about/76447",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TmlXxvnCqNg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T06:43:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vnYWUEatqz_qCDvghG5ps4XndKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QHJZbXgJuyM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T02:27:18Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "금쪽이 장동화쌤 이제 호감캐로 바뀜ㅜㅜ💙🤣 동화 꿀귀 모먼트 모음.zip #낭만닥터김사부3 #drromantic3｜SBSNOW",
+        "description": "SBS 금토드라마 '낭만닥터 김사부3'\n☞ [금] 밤 10시 · [토] 밤 9시 50분\n\n#낭만닥터김사부3 #drromantic3 #낭만닥터김사부 #낭닥 #낭닥3\n#한석규 #안효섭 #이성경 #김민재 #이신영 #장동화\n\n▶ Subscribe NOW! SBS NOW!  https://bit.ly/2YRf9Kn\n▶ Homepage : https://programs.sbs.co.kr/drama/drromantic3/\n▶ Facebook : https://www.facebook.com/sbsdrama.official/ \n▶ Instagram : https://www.instagram.com/sbsdrama.official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QHJZbXgJuyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T02:27:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ClJ8tpwaUYIemJ11EZEQvsCBC6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ooTAGaMl4U0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T06:51:15Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "낭만닥터 김사부 시즌 1~2 에피소드 60분 만에 복습하면서 몰아보기!👨🏻‍⚕️👩‍⚕️ (By 김시선) #낭만닥터김사부3 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▶https://goo.gl/bnT3WD\n\n지방의 초라한 돌담병원을 배경으로 \n벌어지는 '진짜 닥터' 이야기\n\n다시 돌아온 〈낭만닥터 김사부3〉\n2023년 4월 28일 첫 방송됩니다💙\n\n#SBS #낭만닥터김사부3\n#한석규 #안효섭 #이성경\n\n스브스캐치 페이스북 ▶ https://goo.gl/MYWh4V\n스브스캐치 인스타그램 ▶ https://goo.gl/9kukCu\n낭만닥터 김사부 시즌3 ▶ https://programs.sbs.co.kr/drama/drromantic3/about/76447",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ooTAGaMl4U0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ooTAGaMl4U0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ooTAGaMl4U0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ooTAGaMl4U0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ooTAGaMl4U0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T06:51:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cKlURAVHHBxuMmYBA9XyMGZHWSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ifGQElVRgDM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T02:18:31Z",
+        "channelId": "UCazwJIu950RmmueCYzzdrpw",
+        "title": "낭만닥터김사부3 (8화선공개)                     출처: SBS Drama",
+        "description": "낭만닥터김사부3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ifGQElVRgDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ifGQElVRgDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ifGQElVRgDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ifGQElVRgDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "짱준율 GOODJUNYUL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T02:18:31Z"
+      }
+    }
+  ]
+}

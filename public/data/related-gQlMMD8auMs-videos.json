@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8wx-OSen4hM86jUqiD4umT-9t2c",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 197,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rSpGrebnysSHfrzHpQaCXRbPZKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VWolzEDauBY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-06T08:09:29Z",
+        "channelId": "UCh38CtlJDNpk3lVlfZ-EriA",
+        "title": "BLACKPINK FULL A L B U M PLAYLIST 2023 BEST SONGS UPDATED / BLACKPINK 최고의 노래 ❤",
+        "description": "BLACKPINK FULL A L B U M PLAYLIST 2023 BEST SONGS UPDATED / BLACKPINK 최고의 노래 ❤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VWolzEDauBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VWolzEDauBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VWolzEDauBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VWolzEDauBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VWolzEDauBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-06T08:09:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gcAoO6Q7FqOzCWAm-Gk_QpR2BzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4XZz3WXRw0A"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T12:15:38Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JISOO - ‘꽃(FLOWER)’ DANCE PERFORMANCE VIDEO",
+        "description": "#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #DANCE_PERFORMANCE_VIDEO #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4XZz3WXRw0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4XZz3WXRw0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4XZz3WXRw0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4XZz3WXRw0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4XZz3WXRw0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-05T12:15:38Z"
+      }
+    }
+  ]
+}
