@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "GMvajN6wZpUZFwtJ_4htFu_Rs3c",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "XW5AC5DbqXbg_GakzFXi2TDb--o",
+      "id": "UCgqMjKxRWAKUvgYqgomighw",
+      "snippet": {
+        "title": "KBS충북",
+        "description": "'KBS충북'은 KBS청주방송총국 대표공식채널입니다.\n\n언제 어디서나 독보적인 신뢰의 기준,  시청자와 함께 하는 공영 미디어를 위해 노력하겠습니다.\n\n뉴스 제보 043-260-7400",
+        "customUrl": "@kbs_cheongju_official",
+        "publishedAt": "2019-04-10T02:17:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOxd0dzxbfar3ghYaHOhAiVhvr_v3AqDil1IrnSTQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOxd0dzxbfar3ghYaHOhAiVhvr_v3AqDil1IrnSTQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOxd0dzxbfar3ghYaHOhAiVhvr_v3AqDil1IrnSTQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "KBS충북",
+          "description": "'KBS충북'은 KBS청주방송총국 대표공식채널입니다.\n\n언제 어디서나 독보적인 신뢰의 기준,  시청자와 함께 하는 공영 미디어를 위해 노력하겠습니다.\n\n뉴스 제보 043-260-7400"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUgqMjKxRWAKUvgYqgomighw"
+        }
+      },
+      "statistics": {
+        "viewCount": "137924374",
+        "subscriberCount": "254000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "6652"
+      }
+    }
+  ]
+}
