@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 function VideoPlayBox({ video, channel, handleClickChannel }) {
   const {
@@ -18,8 +18,14 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
     },
   } = channel;
 
+  const [more, setMore] = useState(false);
+
   const handleClick = (channelId) => {
     handleClickChannel(channelId);
+  };
+
+  const handleClickMore = () => {
+    setMore(!more);
   };
 
   return (
@@ -41,7 +47,14 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
           <img className="h-10" src={url} alt={channelTitle} />
           <span className="text-zinc-400 px-3">{channelTitle}</span>
         </div>
-        <span className="line-clamp-2 text-white">{description}</span>
+        <div>
+          <span className={more ? "text-white" : "line-clamp-2 text-white"}>
+            {description}
+          </span>
+          <button class="text-white" onClick={handleClickMore}>
+            {more ? "close" : "more"}
+          </button>
+        </div>
       </div>
     </div>
   );
