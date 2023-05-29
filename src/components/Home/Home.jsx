@@ -1,14 +1,26 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 
 import { useNavigate } from "react-router-dom";
 
 import useFetchVideos from "../../hooks/use-fetch-videos";
+import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
 
 function Home() {
   const navigate = useNavigate();
+  const target = useRef();
   const mostPopularVideos = useFetchVideos("most");
+  const [observe, unobserve] = useInfiniteScroll(() => {
+    console.log("api called");
+  });
+
+  useEffect(() => {
+    mostPopularVideos.length && observe(target.current);
+    return () => {
+      target.current && unobserve(target.current);
+    };
+  });
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
@@ -23,6 +35,7 @@ function Home() {
           handleClickVideo={handleClickVideo}
         />
       )}
+      <div ref={target} className="bottom"></div>
     </div>
   );
 }
