@@ -6,6 +6,10 @@ import useFetchVideos from "../../hooks/use-fetch-videos";
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
+import {
+  mostPopularVideosApi,
+  mostPopularVideosTestApi,
+} from "../../services/videos";
 
 function Home() {
   const navigate = useNavigate();
@@ -16,6 +20,8 @@ function Home() {
   });
 
   useEffect(() => {
+    // const data = mostPopularVideosTestApi();
+    // console.log(data);
     mostPopularVideos.length && observe(target.current);
     return () => {
       target.current && unobserve(target.current);
