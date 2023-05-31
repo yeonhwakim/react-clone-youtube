@@ -11,27 +11,18 @@ request.interceptors.response.use(
     return response;
   },
   (error) => {
-    return console.log("common error");
+    return console.log(error);
   }
 );
 
-export function mostPopularVideosTestApi() {
-  axios
-    .get(
-      "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&&type=video&regionCode=US&key=AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ"
-    )
-    .then(function (response) {
-      return console.log(response.data);
-    });
-}
-
 export function mostPopularVideosApi() {
-  request
+  return request
     .get("videos", {
       params: {
-        part: "snippet%2CcontentDetails%2Cstatistics",
+        part: "snippet",
         chart: "mostPopular",
         regionCode: "KR",
+        type: "video",
         maxResults: "25",
         key: "AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ",
       },
@@ -41,16 +32,17 @@ export function mostPopularVideosApi() {
     });
 }
 
-export function searchKeywordVideosApi({ keyword: q }) {
-  request
-    .get("search", {
+export function nextVideosApi(pageToken) {
+  return request
+    .get("videos", {
       params: {
         part: "snippet",
         chart: "mostPopular",
         regionCode: "KR",
+        type: "video",
         maxResults: "25",
+        pageToken,
         key: "AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ",
-        q,
       },
     })
     .then(function (response) {
