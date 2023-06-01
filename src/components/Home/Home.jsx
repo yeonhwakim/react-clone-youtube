@@ -10,27 +10,43 @@ import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
 function Home() {
   const navigate = useNavigate();
   const target = useRef();
-  const [mostPopularVideos, setMostPopularVideos] = useState([]);
-  const [nextVideosToken, setNextVideosToken] = useState([]);
-  const [observe, unobserve] = useInfiniteScroll(async () => {
-    console.log("????????????");
-    // const data = await nextVideosApi(nextVideosToken);
-    // console.log(data);
-    // setMostPopularVideos([...mostPopularVideos, ...data?.items]);
+  const [listInfo, setListInfo] = useState({
+    mostPopularVideos: [],
+    nextVideosToken: "",
   });
+  const { mostPopularVideos, nextVideosToken } = listInfo;
+  const [observe, unobserve] = useInfiniteScroll(
+    nextVideosToken,
+    async (nextVideosToken) => {
+      await fetchNext(nextVideosToken);
+      // setMostPopularVideos([...mostPopularVideos, ...data?.items]);
+    }
+  );
+
+  const fetchNext = async (token) => {
+    const data = await nextVideosApi(token);
+    setListInfo({
+      ...listInfo,
+      nextVideosToken: data.nextPageToken,
+      mostPopularVideos: data.items,
+    });
+  };
 
   useEffect(() => {
     const fetchVideos = async () => {
       const data = await mostPopularVideosApi();
-      console.log(data);
-      setMostPopularVideos(data?.items);
-      setNextVideosToken(data?.nextPageToken);
+      setListInfo({
+        ...listInfo,
+        nextVideosToken: data.nextPageToken,
+        mostPopularVideos: data.items,
+      });
     };
     fetchVideos();
   }, []);
 
   useEffect(() => {
-    mostPopularVideos.length && observe(target.current);
+    unobserve(target.current);
+    mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
     return () => {
       target.current && unobserve(target.current);
     };
