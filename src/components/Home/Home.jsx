@@ -15,13 +15,10 @@ function Home() {
     nextVideosToken: "",
   });
   const { mostPopularVideos, nextVideosToken } = listInfo;
-  const [observe, unobserve] = useInfiniteScroll(
-    nextVideosToken,
-    async (nextVideosToken) => {
-      await fetchNext(nextVideosToken);
-      // setMostPopularVideos([...mostPopularVideos, ...data?.items]);
-    }
-  );
+  const [observe, unobserve] = useInfiniteScroll(async () => {
+    await fetchNext(nextVideosToken);
+    // setMostPopularVideos([...mostPopularVideos, ...data?.items]);
+  });
 
   const fetchNext = async (token) => {
     const data = await nextVideosApi(token);
@@ -50,7 +47,7 @@ function Home() {
     return () => {
       target.current && unobserve(target.current);
     };
-  });
+  }, [mostPopularVideos, nextVideosToken]);
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
