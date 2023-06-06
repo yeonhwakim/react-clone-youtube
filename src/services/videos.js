@@ -50,3 +50,54 @@ export function nextVideosApi(pageToken) {
       return response.data;
     });
 }
+
+export function searchVideosApi(q) {
+  return request
+    .get("search", {
+      params: {
+        part: "snippet",
+        q,
+        regionCode: "KR",
+        type: "video",
+        maxResults: "25",
+        key: "AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ",
+      },
+    })
+    .then(function (response) {
+      return response.data;
+    });
+}
+
+export function relatedVideosApi(relatedToVideoId) {
+  return request
+    .get("search", {
+      params: {
+        part: "snippet",
+        relatedToVideoId,
+        regionCode: "KR",
+        type: "video",
+        maxResults: "25",
+        key: "AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ",
+      },
+    })
+    .then(function (response) {
+      return response.data;
+    });
+}
+
+export function detailVideoApi(id) {
+  return request
+    .get("videos", {
+      params: {
+        part: "snippet",
+        id,
+        regionCode: "KR",
+        type: "video",
+        maxResults: "25",
+        key: "AIzaSyBICiuwe3oayhRn06oC-n94pKxhH5kSLgQ",
+      },
+    })
+    .then(function (response) {
+      return response.data;
+    });
+}
