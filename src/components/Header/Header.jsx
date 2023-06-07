@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import {
+  Link,
   matchPath,
   useLocation,
   useNavigate,
@@ -36,7 +37,9 @@ function Header() {
 
   return (
     <div className="flex items-center justify-center bg-zinc-950 h-20">
-      <img src="/assets/images/logo.png" alt="메인로고" className="w-20" />
+      <Link to="/">
+        <img src="/assets/images/logo.png" alt="메인로고" className="w-20" />
+      </Link>
       <form
         className="flex items-center justify-center w-5/12"
         onSubmit={handleSubmit}
