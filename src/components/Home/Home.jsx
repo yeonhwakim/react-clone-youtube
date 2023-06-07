@@ -1,26 +1,53 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 import { useNavigate } from "react-router-dom";
 
-import useFetchVideos from "../../hooks/use-fetch-videos";
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
+import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
 
 function Home() {
   const navigate = useNavigate();
   const target = useRef();
-  const mostPopularVideos = useFetchVideos("most");
-  const [observe, unobserve] = useInfiniteScroll(() => {
-    console.log("api called");
+  const [listInfo, setListInfo] = useState({
+    mostPopularVideos: [],
+    nextVideosToken: "",
+  });
+  const { mostPopularVideos, nextVideosToken } = listInfo;
+  const [observe, unobserve] = useInfiniteScroll(async () => {
+    await fetchNext(nextVideosToken);
+    // setMostPopularVideos([...mostPopularVideos, ...data?.items]);
   });
 
+  const fetchNext = async (token) => {
+    const data = await nextVideosApi(token);
+    setListInfo({
+      ...listInfo,
+      nextVideosToken: data.nextPageToken,
+      mostPopularVideos: data.items,
+    });
+  };
+
   useEffect(() => {
-    mostPopularVideos.length && observe(target.current);
+    const fetchVideos = async () => {
+      const data = await mostPopularVideosApi();
+      setListInfo({
+        ...listInfo,
+        nextVideosToken: data.nextPageToken,
+        mostPopularVideos: data.items,
+      });
+    };
+    fetchVideos();
+  }, []);
+
+  useEffect(() => {
+    unobserve(target.current);
+    mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
     return () => {
       target.current && unobserve(target.current);
     };
-  });
+  }, [mostPopularVideos, nextVideosToken]);
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
