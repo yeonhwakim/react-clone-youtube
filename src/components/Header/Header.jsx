@@ -1,30 +1,18 @@
 import React, { useEffect, useState } from "react";
-import {
-  Link,
-  matchPath,
-  useLocation,
-  useNavigate,
-  useParams,
-} from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 
 function Header() {
   const navigate = useNavigate();
-  const { pathname } = useLocation();
   const { keyword } = useParams();
 
   const [searchKeyword, setSearchKeyword] = useState("");
 
   useEffect(() => {
-    if (matchPath("/videos/:keyword", pathname)) {
-      setSearchKeyword(keyword);
-      return;
-    }
-
-    setSearchKeyword("");
-  }, [pathname, keyword]);
+    setSearchKeyword(keyword || "");
+  }, [keyword]);
 
   const handleChange = (e) => {
     setSearchKeyword(e.target.value);
