@@ -1,29 +1,18 @@
 import React, { useEffect, useState } from "react";
-import {
-  matchPath,
-  useLocation,
-  useNavigate,
-  useParams,
-} from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 
 function Header() {
   const navigate = useNavigate();
-  const { pathname } = useLocation();
   const { keyword } = useParams();
 
   const [searchKeyword, setSearchKeyword] = useState("");
 
   useEffect(() => {
-    if (matchPath("/videos/:keyword", pathname)) {
-      setSearchKeyword(keyword);
-      return;
-    }
-
-    setSearchKeyword("");
-  }, [pathname, keyword]);
+    setSearchKeyword(keyword || "");
+  }, [keyword]);
 
   const handleChange = (e) => {
     setSearchKeyword(e.target.value);
@@ -36,7 +25,9 @@ function Header() {
 
   return (
     <div className="flex items-center justify-center bg-zinc-950 h-20">
-      <img src="/assets/images/logo.png" alt="메인로고" className="w-20" />
+      <Link to="/">
+        <img src="/assets/images/logo.png" alt="메인로고" className="w-20" />
+      </Link>
       <form
         className="flex items-center justify-center w-5/12"
         onSubmit={handleSubmit}

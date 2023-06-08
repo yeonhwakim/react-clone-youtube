@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply flex flex-col items-center;
+  @apply bg-zinc-900;
+}
+
+#root {
+  @apply w-full max-w-screen-2xl;
+}
