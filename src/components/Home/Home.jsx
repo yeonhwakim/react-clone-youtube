@@ -6,6 +6,8 @@ import { useQuery } from "@tanstack/react-query";
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
+
+import FakeYoutube from "../../services/fake-youtube-api";
 import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
 
 function Home() {
@@ -15,10 +17,10 @@ function Home() {
     error,
     data: videos,
   } = useQuery({
-    queryKey: ["videos", keyword],
+    queryKey: ["videos", keyword || ""],
     queryFn: async () => {
-      const result = await mostPopularVideosApi();
-      return result.items;
+      const fakeYoutube = new FakeYoutube();
+      return fakeYoutube.search(keyword);
     },
   });
 
@@ -55,13 +57,13 @@ function Home() {
     fetchVideos();
   }, []);
 
-  useEffect(() => {
-    unobserve(target.current);
-    mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
-    return () => {
-      target.current && unobserve(target.current);
-    };
-  }, [mostPopularVideos, nextVideosToken]);
+  // useEffect(() => {
+  //   unobserve(target.current);
+  //   mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
+  //   return () => {
+  //     target.current && unobserve(target.current);
+  //   };
+  // }, [mostPopularVideos, nextVideosToken]);
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
