@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
@@ -8,6 +9,19 @@ import Videos from "../Videos/Videos";
 import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
 
 function Home() {
+  const { keyword } = useParams();
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery({
+    queryKey: ["videos", keyword],
+    queryFn: async () => {
+      const result = await mostPopularVideosApi();
+      return result.items;
+    },
+  });
+
   const navigate = useNavigate();
   const target = useRef();
   const [listInfo, setListInfo] = useState({
@@ -55,13 +69,10 @@ function Home() {
 
   return (
     <div className="bg-black">
-      {!mostPopularVideos.length && "EMPTY"}
-      {mostPopularVideos.length && (
-        <Videos
-          videos={mostPopularVideos}
-          handleClickVideo={handleClickVideo}
-        />
-      )}
+      {isLoading && <p className="text-white">LOADING....</p>}
+      {error && <p className="text-white">SOMETHING WRONG....</p>}
+      {!videos && "EMPTY"}
+      {videos && <Videos videos={videos} handleClickVideo={handleClickVideo} />}
       <div ref={target} className="bottom"></div>
     </div>
   );
