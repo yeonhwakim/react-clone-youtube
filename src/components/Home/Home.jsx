@@ -7,24 +7,19 @@ import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
 
-import FakeYoutube from "../../services/fake-youtube-api";
-import Youtube from "../../services/youtube-api";
 import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Home() {
   const { keyword } = useParams();
+  const { youtube } = useYoutubeApi();
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery({
     queryKey: ["videos", keyword || ""],
-    queryFn: async () => {
-      // const fakeYoutube = new Youtube();
-      // return fakeYoutube.search(keyword);
-      const youtube = new Youtube();
-      return youtube.search(keyword);
-    },
+    queryFn: async () => youtube.search(keyword),
   });
 
   const navigate = useNavigate();
