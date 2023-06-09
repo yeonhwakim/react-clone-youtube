@@ -19,7 +19,7 @@ function Home() {
     data: videos,
   } = useQuery({
     queryKey: ["videos", keyword || ""],
-    queryFn: async () => youtube.search(keyword),
+    queryFn: async () => youtube.videos(keyword),
   });
 
   const navigate = useNavigate();
