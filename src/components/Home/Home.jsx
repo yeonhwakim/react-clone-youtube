@@ -1,13 +1,27 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
 
 import Videos from "../Videos/Videos";
+
 import { mostPopularVideosApi, nextVideosApi } from "../../services/videos";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Home() {
+  const { keyword } = useParams();
+  const { youtube } = useYoutubeApi();
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery({
+    queryKey: ["videos", keyword || ""],
+    queryFn: async () => youtube.videos(keyword),
+  });
+
   const navigate = useNavigate();
   const target = useRef();
   const [listInfo, setListInfo] = useState({
@@ -41,13 +55,13 @@ function Home() {
     fetchVideos();
   }, []);
 
-  useEffect(() => {
-    unobserve(target.current);
-    mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
-    return () => {
-      target.current && unobserve(target.current);
-    };
-  }, [mostPopularVideos, nextVideosToken]);
+  // useEffect(() => {
+  //   unobserve(target.current);
+  //   mostPopularVideos.length > 0 && nextVideosToken && observe(target.current);
+  //   return () => {
+  //     target.current && unobserve(target.current);
+  //   };
+  // }, [mostPopularVideos, nextVideosToken]);
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
@@ -55,13 +69,10 @@ function Home() {
 
   return (
     <div className="bg-black">
-      {!mostPopularVideos.length && "EMPTY"}
-      {mostPopularVideos.length && (
-        <Videos
-          videos={mostPopularVideos}
-          handleClickVideo={handleClickVideo}
-        />
-      )}
+      {isLoading && <p className="text-white">LOADING....</p>}
+      {error && <p className="text-white">SOMETHING WRONG....</p>}
+      {!videos && "EMPTY"}
+      {videos && <Videos videos={videos} handleClickVideo={handleClickVideo} />}
       <div ref={target} className="bottom"></div>
     </div>
   );
