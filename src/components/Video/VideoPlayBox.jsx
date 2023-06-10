@@ -51,7 +51,7 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
           <span className={more ? "text-white" : "line-clamp-2 text-white"}>
             {description}
           </span>
-          <button class="text-white" onClick={handleClickMore}>
+          <button className="text-white" onClick={handleClickMore}>
             {more ? "close" : "more"}
           </button>
         </div>
