@@ -34,10 +34,8 @@ function Video({
           className="flex flex-col"
           onClick={() => handleClick(id || channelId)}
         >
-          <img className="h-30" src={url} alt={title} />
-          <div className="h-20 min-h-20">
-            <span className="line-clamp-2 text-white">{title}</span>
-          </div>
+          <img className="w-full" src={url} alt={title} />
+          <span className="line-clamp-2 text-white my-2">{title}</span>
           <span className="text-zinc-400">{channelTitle}</span>
           <span className="text-zinc-400">{diffDate(publishedAt)}</span>
         </li>
