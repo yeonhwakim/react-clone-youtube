@@ -7,7 +7,7 @@ function Videos({ type, videos, handleClickVideo }) {
       className={
         type === "related"
           ? "flex flex-col w-1/5 pr-10"
-          : "grid grid-cols-4 gap-4"
+          : "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols5 gap-2"
       }
     >
       {videos.map(
@@ -15,7 +15,7 @@ function Videos({ type, videos, handleClickVideo }) {
           id,
           snippet: {
             thumbnails: {
-              high: { url },
+              medium: { url },
             },
             title,
             publishedAt,
