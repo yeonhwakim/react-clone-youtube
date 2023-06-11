@@ -1,20 +1,12 @@
 import React, { useState } from "react";
 
-function VideoPlayBox({ video, channel, handleClickChannel }) {
+import Channel from "./Channel";
+
+function VideoPlayBox({ video, handleClickChannel }) {
   const {
     id,
-    snippet: { title, description },
+    snippet: { title, description, channelId },
   } = video;
-  const {
-    id: channelId,
-    snippet: {
-      title: channelTitle,
-      thumbnails: {
-        high: { url },
-      },
-    },
-  } = channel;
-
   const [more, setMore] = useState(false);
 
   const handleClick = (channelId) => {
@@ -37,13 +29,7 @@ function VideoPlayBox({ video, channel, handleClickChannel }) {
       ></iframe>
       <div>
         <span>{title}</span>
-        <div
-          className="flex flex-row items-center py-3"
-          onClick={() => handleClick(channelId)}
-        >
-          <img className="h-10" src={url} alt={channelTitle} />
-          <span className="text-zinc-400 px-3">{channelTitle}</span>
-        </div>
+        <Channel channelId={channelId} handleClick={handleClick} />
         <div>
           <span className={more ? "text-white" : "line-clamp-2 text-white"}>
             {description}

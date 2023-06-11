@@ -9,6 +9,17 @@ export default class YoutubeApi {
       : this.#mostPopular(keyword);
   }
 
+  async channel(id) {
+    return this.apiClient
+      .channel({
+        params: {
+          part: "snippet",
+          id,
+        },
+      })
+      .then((res) => res.data.items[0].snippet);
+  }
+
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
