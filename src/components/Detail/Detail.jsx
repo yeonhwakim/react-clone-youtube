@@ -1,6 +1,6 @@
 import React from "react";
 
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 import useFetchVideos from "../../hooks/use-fetch-videos";
 import useFetchChannel from "../../hooks/use-fetch-channel";
@@ -10,8 +10,11 @@ import Videos from "../Videos/Videos";
 
 function Detail() {
   const navigate = useNavigate();
+  const {
+    state: { video },
+  } = useLocation();
+
   const relatedVideos = useFetchVideos("related");
-  const video = useFetchVideos("detail");
   const channel = useFetchChannel(video?.snippet?.channelId);
 
   const handleClickVideo = (id) => {

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import { useNavigate, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 
 import useInfiniteScroll from "../../hooks/use-infinite-scroll";
@@ -19,10 +19,9 @@ function Home() {
     data: videos,
   } = useQuery({
     queryKey: ["videos", keyword || ""],
-    queryFn: async () => youtube.videos(keyword),
+    queryFn: async () => youtube.search(keyword),
   });
 
-  const navigate = useNavigate();
   const target = useRef();
   const [listInfo, setListInfo] = useState({
     mostPopularVideos: [],
@@ -63,16 +62,12 @@ function Home() {
   //   };
   // }, [mostPopularVideos, nextVideosToken]);
 
-  const handleClickVideo = (id) => {
-    navigate(`/videos/watch/${id}`);
-  };
-
   return (
     <div className="bg-black">
       {isLoading && <p className="text-white">LOADING....</p>}
       {error && <p className="text-white">SOMETHING WRONG....</p>}
       {!videos && "EMPTY"}
-      {videos && <Videos videos={videos} handleClickVideo={handleClickVideo} />}
+      {videos && <Videos videos={videos} />}
       <div ref={target} className="bottom"></div>
     </div>
   );

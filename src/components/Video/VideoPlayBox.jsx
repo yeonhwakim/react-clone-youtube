@@ -3,10 +3,7 @@ import React, { useState } from "react";
 function VideoPlayBox({ video, channel, handleClickChannel }) {
   const {
     id,
-    snippet: {
-      title,
-      localized: { description },
-    },
+    snippet: { title, description },
   } = video;
   const {
     id: channelId,
