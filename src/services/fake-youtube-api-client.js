@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default class FakeYoutubeApiClient {
-  async search(params) {
+  async search({ params }) {
     return axios.get(`/data/search-${params.q}-videos.json`);
   }
 

@@ -4,6 +4,12 @@ export default class YoutubeApi {
   }
 
   async search(keyword) {
+    return keyword
+      ? this.#searchByKeyword(keyword)
+      : this.#mostPopular(keyword);
+  }
+
+  async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
         params: {
@@ -23,7 +29,7 @@ export default class YoutubeApi {
       );
   }
 
-  async videos() {
+  async #mostPopular() {
     return this.apiClient
       .videos({
         params: {
