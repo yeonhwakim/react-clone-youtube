@@ -9,6 +9,25 @@ export default class YoutubeApi {
       : this.#mostPopular(keyword);
   }
 
+  async related(relatedToVideoId) {
+    return this.apiClient
+      .related({
+        params: {
+          part: "snippet",
+          relatedToVideoId,
+          regionCode: "KR",
+          type: "video",
+          maxResults: "25",
+        },
+      })
+      .then((res) =>
+        res.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId || item.id.channelId,
+        }))
+      );
+  }
+
   async channel(id) {
     return this.apiClient
       .channel({
@@ -31,9 +50,8 @@ export default class YoutubeApi {
           maxResults: "25",
         },
       })
-      .then((res) => res.data.items)
-      .then((items) =>
-        items.map((item) => ({
+      .then((res) =>
+        res.data.items.map((item) => ({
           ...item,
           id: item.id.videoId || item.id.channelId,
         }))

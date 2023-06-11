@@ -1,19 +1,29 @@
 import React from "react";
 
 import { useLocation, useNavigate } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 
-import useFetchVideos from "../../hooks/use-fetch-videos";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 import VideoPlayBox from "../Video/VideoPlayBox";
 import Videos from "../Videos/Videos";
 
 function Detail() {
   const navigate = useNavigate();
+  const { youtube } = useYoutubeApi();
+
   const {
     state: { video },
   } = useLocation();
 
-  const relatedVideos = useFetchVideos("related");
+  const {
+    isLoading,
+    error,
+    data: relatedVideos,
+  } = useQuery({
+    queryKey: ["related", video.id || ""],
+    queryFn: async () => youtube.related(video.id),
+  });
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
@@ -28,6 +38,8 @@ function Detail() {
       {Object.keys(video).length > 0 && (
         <VideoPlayBox video={video} handleClickChannel={handleClickChannel} />
       )}
+      {isLoading && <p className="text-white">LOADING....</p>}
+      {error && <p className="text-white">SOMETHING WRONG....</p>}
       {relatedVideos && (
         <Videos
           type="related"

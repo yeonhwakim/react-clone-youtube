@@ -1,6 +1,10 @@
 import axios from "axios";
 
 export default class FakeYoutubeApiClient {
+  async related({ params }) {
+    return axios.get(`/data/related-${params.relatedToVideoId}-videos.json`);
+  }
+
   async channel({ params }) {
     return axios.get(`/data/channel-${params.id}.json`);
   }
