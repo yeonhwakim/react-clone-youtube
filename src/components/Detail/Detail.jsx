@@ -34,7 +34,7 @@ function Detail() {
   };
 
   return (
-    <div className="bg-black flex flex-row">
+    <div className="flex flex-col lg:flex-row py-2">
       {Object.keys(video).length > 0 && (
         <VideoPlayBox video={video} handleClickChannel={handleClickChannel} />
       )}

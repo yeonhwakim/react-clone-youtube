@@ -24,7 +24,7 @@ function Header() {
   };
 
   return (
-    <div className="flex items-center justify-center bg-zinc-950 h-20">
+    <div className="flex items-center justify-center h-20">
       <Link to="/">
         <img src="/assets/images/logo.png" alt="메인로고" className="w-20" />
       </Link>

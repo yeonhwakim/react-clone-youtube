@@ -19,11 +19,11 @@ function Channel({ channelId, handleClick }) {
         onClick={() => handleClick(channelId)}
       >
         <img
-          className="h-10"
+          className="rounded-full h-10"
           src={channel.thumbnails.default.url}
           alt={channel.title}
         />
-        <span className="text-zinc-400 px-3">{channel.title}</span>
+        <span className="text-white px-3 font-midium ">{channel.title}</span>
       </div>
     )
   );

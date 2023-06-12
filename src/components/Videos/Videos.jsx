@@ -6,7 +6,7 @@ function Videos({ type, videos }) {
     <ul
       className={
         type === "related"
-          ? "flex flex-col w-1/5 pr-10"
+          ? "flex flex-col basis-2/6 gap-2 ml-3"
           : "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols5 gap-2"
       }
     >

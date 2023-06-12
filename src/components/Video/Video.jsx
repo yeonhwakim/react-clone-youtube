@@ -4,12 +4,11 @@ import { useNavigate } from "react-router-dom";
 
 import { diffDate } from "../../utils/date";
 
-function Video({ video }) {
+function Video({ video, type }) {
   const navigate = useNavigate();
   const {
     id,
     snippet: {
-      type,
       thumbnails: {
         medium: { url },
       },
@@ -24,17 +23,17 @@ function Video({ video }) {
     <>
       {type === "related" ? (
         <li
-          className="flex flex-col"
+          className="flex flex-row"
           onClick={() =>
             navigate(`/videos/watch/${id || channelId}`, { state: { video } })
           }
         >
-          <img src={url} alt={title} />
-          <div className="h-20 min-h-20">
+          <img className="w-60" src={url} alt={title} />
+          <div>
             <span className="line-clamp-2 text-white">{title}</span>
+            <span className="text-zinc-400">{channelTitle}</span>
+            <span className="text-zinc-400">{diffDate(publishedAt)}</span>
           </div>
-          <span className="text-zinc-400">{channelTitle}</span>
-          <span className="text-zinc-400">{diffDate(publishedAt)}</span>
         </li>
       ) : (
         <li
