@@ -5,7 +5,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import App from "./App";
 import Home from "./components/Home/Home";
-import Result from "./components/Result/Result";
 import Detail from "./components/Detail/Detail";
 
 import "./index.css";
@@ -19,7 +18,7 @@ const router = createBrowserRouter([
       {
         path: "videos",
         children: [
-          { path: ":keyword", element: <Result /> },
+          { path: ":keyword", element: <Home /> },
           { path: "watch/:id", element: <Detail /> },
         ],
       },
