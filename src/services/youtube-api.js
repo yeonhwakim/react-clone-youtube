@@ -4,6 +4,42 @@ export default class YoutubeApi {
   }
 
   async search(keyword) {
+    return keyword
+      ? this.#searchByKeyword(keyword)
+      : this.#mostPopular(keyword);
+  }
+
+  async related(relatedToVideoId) {
+    return this.apiClient
+      .related({
+        params: {
+          part: "snippet",
+          relatedToVideoId,
+          regionCode: "KR",
+          type: "video",
+          maxResults: "25",
+        },
+      })
+      .then((res) =>
+        res.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId || item.id.channelId,
+        }))
+      );
+  }
+
+  async channel(id) {
+    return this.apiClient
+      .channel({
+        params: {
+          part: "snippet",
+          id,
+        },
+      })
+      .then((res) => res.data.items[0].snippet);
+  }
+
+  async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
         params: {
@@ -14,16 +50,15 @@ export default class YoutubeApi {
           maxResults: "25",
         },
       })
-      .then((res) => res.data.items)
-      .then((items) =>
-        items.map((item) => ({
+      .then((res) =>
+        res.data.items.map((item) => ({
           ...item,
           id: item.id.videoId || item.id.channelId,
         }))
       );
   }
 
-  async videos() {
+  async #mostPopular() {
     return this.apiClient
       .videos({
         params: {

@@ -1,18 +1,29 @@
 import React from "react";
 
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 
-import useFetchVideos from "../../hooks/use-fetch-videos";
-import useFetchChannel from "../../hooks/use-fetch-channel";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 import VideoPlayBox from "../Video/VideoPlayBox";
 import Videos from "../Videos/Videos";
 
 function Detail() {
   const navigate = useNavigate();
-  const relatedVideos = useFetchVideos("related");
-  const video = useFetchVideos("detail");
-  const channel = useFetchChannel(video?.snippet?.channelId);
+  const { youtube } = useYoutubeApi();
+
+  const {
+    state: { video },
+  } = useLocation();
+
+  const {
+    isLoading,
+    error,
+    data: relatedVideos,
+  } = useQuery({
+    queryKey: ["related", video.id || ""],
+    queryFn: async () => youtube.related(video.id),
+  });
 
   const handleClickVideo = (id) => {
     navigate(`/videos/watch/${id}`);
@@ -23,14 +34,12 @@ function Detail() {
   };
 
   return (
-    <div className="bg-black flex flex-row">
-      {Object.keys(video).length > 0 && Object.keys(channel).length > 0 && (
-        <VideoPlayBox
-          video={video}
-          channel={channel}
-          handleClickChannel={handleClickChannel}
-        />
+    <div className="flex flex-col lg:flex-row py-2">
+      {Object.keys(video).length > 0 && (
+        <VideoPlayBox video={video} handleClickChannel={handleClickChannel} />
       )}
+      {isLoading && <p className="text-white">LOADING....</p>}
+      {error && <p className="text-white">SOMETHING WRONG....</p>}
       {relatedVideos && (
         <Videos
           type="related"
