@@ -39,3 +39,5 @@
   - [X] 리스트 레이야웃
   - [X] 배경색
   - [X] 등등
+
+6. 배포 - 2023.06.12 [리액트 유튜브 클론 코딩](https://cheerful-meringue-e20deb.netlify.app/)
